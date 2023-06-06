@@ -10,6 +10,7 @@ import torch.backends.cudnn as cudnn
 import torch.optim as optim
 from torch.utils.data import DataLoader
 from predict import predict
+from get_map import cal_map
 
 from nets.frcnn import FasterRCNN
 from nets.frcnn_training import (FasterRCNNTrainer, get_lr_scheduler,
@@ -444,5 +445,8 @@ if __name__ == "__main__":
 
             # 预测图片并保存
             predict()
+
+            # 计算map
+            cal_map()
             
         loss_history.writer.close()

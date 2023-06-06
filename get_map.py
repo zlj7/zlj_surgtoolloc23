@@ -8,7 +8,7 @@ from utils.utils import get_classes
 from utils.utils_map import get_coco_map, get_map
 from frcnn import FRCNN
 
-if __name__ == "__main__":
+def cal_map():
     '''
     Recall和Precision不像AP是一个面积的概念，因此在门限值（Confidence）不同时，网络的Recall和Precision值是不同的。
     默认情况下，本代码计算的Recall和Precision代表的是当门限值（Confidence）为0.5时，所对应的Recall和Precision值。
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     #   指向VOC数据集所在的文件夹
     #   默认指向根目录下的VOC数据集
     #-------------------------------------------------------#
-    VOCdevkit_path  = 'VOCdevkit'
+    VOCdevkit_path  = '../data/VOCdevkit'
     #-------------------------------------------------------#
     #   结果输出的文件夹，默认为map_out
     #-------------------------------------------------------#
