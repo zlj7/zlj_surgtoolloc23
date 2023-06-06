@@ -10,7 +10,7 @@ from PIL import Image
 
 from frcnn import FRCNN
 
-if __name__ == "__main__":
+def predict():
     frcnn = FRCNN()
     #----------------------------------------------------------------------------------------------------------#
     #   mode用于指定测试的模式：

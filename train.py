@@ -9,8 +9,7 @@ import torch
 import torch.backends.cudnn as cudnn
 import torch.optim as optim
 from torch.utils.data import DataLoader
-from tqdm import tqdm
-from PIL import Image
+from predict import predict
 
 from nets.frcnn import FasterRCNN
 from nets.frcnn_training import (FasterRCNNTrainer, get_lr_scheduler,
@@ -75,8 +74,11 @@ if __name__ == "__main__":
     #   一般来讲，网络从0开始的训练效果会很差，因为权值太过随机，特征提取效果不明显，因此非常、非常、非常不建议大家从0开始训练！
     #   如果一定要从0开始，可以了解imagenet数据集，首先训练分类模型，获得网络的主干部分权值，分类模型的 主干部分 和该模型通用，基于此进行训练。
     #----------------------------------------------------------------------------------------------------------------------------#
-    model_path      = ''
-    #------------------------------------------------------#
+    if not os.path.exists('model_data/voc_weights_resnet.pth'):
+        model_path      = 'model_data/voc_weights_resnet.pth'
+    else:
+        model_path = ''
+        #------------------------------------------------------#
     #   input_shape     输入的shape大小
     #------------------------------------------------------#
     input_shape     = [600, 600]
@@ -219,8 +221,8 @@ if __name__ == "__main__":
     #----------------------------------------------------#
     #   获得图片路径和标签
     #----------------------------------------------------#
-    train_annotation_path   = 'VOCdevkit/VOC2007/2007_train.txt'
-    val_annotation_path     = 'VOCdevkit/VOC2007/2007_val.txt'
+    train_annotation_path   = '2007_train.txt'
+    val_annotation_path     = '2007_val.txt'
     
     #----------------------------------------------------#
     #   获取classes和anchor
@@ -438,22 +440,9 @@ if __name__ == "__main__":
                 
             set_optimizer_lr(optimizer, lr_scheduler_func, epoch)
 
-            # 预测图片并保存
-            dir_origin_path = "img/"
-            dir_save_path = "img_out/"
-            if(epoch % save_period == 0):
-                img_names = os.listdir(dir_origin_path)
-                for img_name in tqdm(img_names):
-                    if img_name.lower().endswith(
-                            ('.bmp', '.dib', '.png', '.jpg', '.jpeg', '.pbm', '.pgm', '.ppm', '.tif', '.tiff')):
-                        image_path = os.path.join(dir_origin_path, img_name)
-                        image = Image.open(image_path)
-                        r_image = model.detect_image(image)
-                        if not os.path.exists(dir_save_path):
-                            os.makedirs(dir_save_path)
-                        r_image.save(os.path.join(dir_save_path, img_name.replace(".jpg", ".png")), quality=95,
-                                     subsampling=0)
-            
             fit_one_epoch(model, train_util, loss_history, eval_callback, optimizer, epoch, epoch_step, epoch_step_val, gen, gen_val, UnFreeze_Epoch, Cuda, fp16, scaler, save_period, save_dir)
+
+            # 预测图片并保存
+            predict()
             
         loss_history.writer.close()
