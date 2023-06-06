@@ -9,6 +9,8 @@ import torch
 import torch.backends.cudnn as cudnn
 import torch.optim as optim
 from torch.utils.data import DataLoader
+from tqdm import tqdm
+from PIL import Image
 
 from nets.frcnn import FasterRCNN
 from nets.frcnn_training import (FasterRCNNTrainer, get_lr_scheduler,
@@ -435,6 +437,22 @@ if __name__ == "__main__":
                 UnFreeze_flag = True
                 
             set_optimizer_lr(optimizer, lr_scheduler_func, epoch)
+
+            # 预测图片并保存
+            dir_origin_path = "img/"
+            dir_save_path = "img_out/"
+            if(epoch % save_period == 0):
+                img_names = os.listdir(dir_origin_path)
+                for img_name in tqdm(img_names):
+                    if img_name.lower().endswith(
+                            ('.bmp', '.dib', '.png', '.jpg', '.jpeg', '.pbm', '.pgm', '.ppm', '.tif', '.tiff')):
+                        image_path = os.path.join(dir_origin_path, img_name)
+                        image = Image.open(image_path)
+                        r_image = model.detect_image(image)
+                        if not os.path.exists(dir_save_path):
+                            os.makedirs(dir_save_path)
+                        r_image.save(os.path.join(dir_save_path, img_name.replace(".jpg", ".png")), quality=95,
+                                     subsampling=0)
             
             fit_one_epoch(model, train_util, loss_history, eval_callback, optimizer, epoch, epoch_step, epoch_step_val, gen, gen_val, UnFreeze_Epoch, Cuda, fp16, scaler, save_period, save_dir)
             

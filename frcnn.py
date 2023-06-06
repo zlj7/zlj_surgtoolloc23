@@ -52,7 +52,7 @@ class FRCNN(object):
         #   是否使用Cuda
         #   没有GPU可以设置成False
         #-------------------------------#
-        "cuda"          : True,
+        "cuda"          : True if torch.cuda.is_available() else False
     }
 
     @classmethod
