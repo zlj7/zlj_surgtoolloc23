@@ -149,7 +149,7 @@ if __name__ == "__main__":
     #------------------------------------------------------------------#
     Init_Epoch          = 0
     Freeze_Epoch        = 50
-    Freeze_batch_size   = 1
+    Freeze_batch_size   = 2
     #------------------------------------------------------------------#
     #   解冻阶段训练参数
     #   此时模型的主干不被冻结了，特征提取网络会发生改变
@@ -160,7 +160,7 @@ if __name__ == "__main__":
     #   Unfreeze_batch_size     模型在解冻后的batch_size
     #------------------------------------------------------------------#
     UnFreeze_Epoch      = 100
-    Unfreeze_batch_size = 1
+    Unfreeze_batch_size = 2
     #------------------------------------------------------------------#
     #   Freeze_Train    是否进行冻结训练
     #                   默认先冻结主干训练后解冻训练。
@@ -233,8 +233,8 @@ if __name__ == "__main__":
     #------------------------------------------------------#
     #   设置用到的显卡
     #------------------------------------------------------#
+    # 这里设置的好像没用，得命令行设置(CUDA_VISIBLE_DEVICES=7 python3 train.py)
     os.environ["CUDA_VISIBLE_DEVICES"]  = ','.join(str(x) for x in train_gpu)
-    print(os.environ["CUDA_VISIBLE_DEVICES"])
     ngpus_per_node                      = len(train_gpu)
     print('Number of devices: {}'.format(ngpus_per_node))
     
