@@ -6,7 +6,7 @@
 
 首先`pip install -r requirements.txt`
 
-原始仓库requirements.txt里给的torch和torchvision版本是`torch==1.2.0 torchvision==0.4.0`，和服务器的CUDA版本不太匹配，直接下requirements.txt里的运行会报错`RuntimeError: CUDA error: invalid decice function` 。Google后发现是torch和CUDA版本不匹配导致的，服务器`nvcc -V`显示的CUDA版本是11.6（nvidia-smi显示的是11.7，csdn上说以nvcc -V为准），就照着[这篇CSDN](https://blog.csdn.net/ericdiii/article/details/125258580)安装了对应版本的torch和torchvision（顺手一起装了torchaudio ），即运行
+原始仓库requirements.txt里给的torch和torchvision版本是`torch==1.2.0 torchvision==0.4.0`，和服务器的CUDA版本不太匹配，直接下requirements.txt里的运行会报错`RuntimeError: CUDA error: invalid decice function` 。Google后发现是torch和CUDA版本不匹配导致的，服务器`nvcc -V`显示的CUDA版本是11.6（nvidia-smi显示的是11.7，csdn上说以nvcc -V为准），就照着[这篇CSDN](![img](file:///C:\Users\zlj\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png)https://blog.csdn.net/ericdiii/article/details/125258580)安装了对应版本的torch和torchvision（顺手一起装了torchaudio ），即运行
 
 `pip install torch torchvision torchaudio --pre --extra-index-url https://download.pytorch.org/whl/nightly/cu116`
 
