@@ -138,7 +138,7 @@ class EvalCallback():
             images = torch.from_numpy(image_data)
             if self.cuda:
                 images = images.cuda()
-
+            
             roi_cls_locs, roi_scores, rois, _ = self.net(images)
             #-------------------------------------------------------------#
             #   利用classifier的预测结果对建议框进行解码，获得预测框

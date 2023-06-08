@@ -1,843 +1,843 @@
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_002425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_004050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_004625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_004800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_017125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_020150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_025275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_025450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_026450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_026925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_029325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_029950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_030575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_031325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_036300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_036725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_036900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_042925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_052475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_052975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_053325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_054600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_055225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_055350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_057100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_057675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_001700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_001875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_002400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_003900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_010575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_011950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_013075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_013250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_017550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_018550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_018600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_018625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_022325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_027050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_027075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_027225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_030350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_035700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_036325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_039175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_040950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_040975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_042225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_042400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_043250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_043400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_048500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_048525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_048650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_001150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_002350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_012450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_015275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_020600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_022475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_023100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_023725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_023875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_026625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_033350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_036850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_041725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_050000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_050300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_050500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_051225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_051400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_064825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_065750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_067150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_070175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_077800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_079575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_080850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_081500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_084025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_086225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_089425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_098275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_099100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_102550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_106775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_107075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_107525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_107625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_110850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_111825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_111900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_112000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_112525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_114100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_114125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_000200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_000750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_003550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_003725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_004350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_004575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_004875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_005000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_005075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_005425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_013650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_014025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_014125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_014350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_017650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_021325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_027800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_027875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_027950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_028675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_028800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_028975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_008850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_014475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_015125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_016600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_019475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_021600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_029950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_031225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_031275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_031425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_037750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_044100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_048575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_048900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_050325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_052850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_055500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_055550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_055575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_058275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_060150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_060275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_061600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_061750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_000950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_002175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_011550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_011925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_015625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_015850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_016075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_016100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_016275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_022175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_022450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_022550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_024250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_026625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_027575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_031000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_032975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_036150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_042450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_042525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_042575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_048050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_049900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_052050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_052400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_058075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_060050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_060425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_062200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_064425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_065825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_066150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_066275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_066525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_068350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_069075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_069450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_073650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_074050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_074225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_074875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_075175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_077225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_077250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_001400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_002300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_006750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_007375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_008175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_011000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_012050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_016000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_016025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_020325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_024700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_028175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_028500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_028650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_029225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_029250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_029275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_030100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_000975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_001675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_003625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_007025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_007050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_012600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_012650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_012850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_013300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_013475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_013775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_014600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_014800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_014950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_017000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_017925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_025625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_026375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_028775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_029825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_029850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_029925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_035750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_035875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_036300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_040275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_040450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_000325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_002350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_007175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_008700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_012175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_012625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_018775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_019450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_022700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_023325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_025200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_025375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_025900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_027200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_028450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_029700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_030950.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_034175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_036050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_036675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_037200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_037375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_038675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_041700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_044475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_044625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_044700.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_045075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_045200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_045450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_000150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_011050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_013875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_014375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_015900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_018975.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023350.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023400.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024900.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025050.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026100.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026300.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026325.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026425.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026450.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026750.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_029475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_031625.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_031775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_031875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034175.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034250.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034475.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034600.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034650.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034725.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034825.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034875.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035025.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_036925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_038275.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_040150.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_040775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_047575.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_054775.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_056225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_056675.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061000.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061075.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061200.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061500.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_062375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_063850.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064225.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064375.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064525.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064550.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064800.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064925.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_065125.jpg
-/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_066100.jpg
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_002425.jpg 178,151,227,174,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_004050.jpg 240,79,315,142,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_004625.jpg 293,56,378,110,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_004800.jpg 215,189,367,250,0 261,88,333,142,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_017125.jpg 190,129,258,187,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_020150.jpg 92,117,213,180,0 267,48,352,115,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_025275.jpg 267,12,382,102,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_025450.jpg 85,167,195,204,0 273,40,369,119,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_026450.jpg 302,147,401,215,4 236,7,407,80,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_026925.jpg 266,219,409,324,4 275,10,387,91,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027550.jpg 206,251,295,327,3 100,98,181,155,0 292,7,382,69,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027775.jpg 268,166,360,257,3 142,29,277,122,0 289,7,387,74,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027825.jpg 114,33,292,123,0 288,5,409,92,0 267,183,393,246,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_027875.jpg 297,192,397,273,3 139,23,288,114,0 292,4,395,85,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028050.jpg 99,57,239,138,0 257,5,409,107,0 200,184,322,280,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028200.jpg 106,39,279,140,0 278,3,408,99,0 234,192,379,281,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028300.jpg 236,190,326,271,3 129,38,297,138,0 302,4,390,77,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028400.jpg 255,187,328,272,3 125,53,277,139,0 287,5,392,88,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028500.jpg 128,41,289,136,0 290,6,403,79,0 246,204,353,266,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028775.jpg 280,166,349,241,3 110,66,224,133,0 294,6,398,75,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_028975.jpg 273,13,383,101,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_029325.jpg 115,45,255,115,0 267,53,366,119,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_029950.jpg 268,6,411,102,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_030575.jpg 222,86,299,117,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_031325.jpg 203,65,368,190,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_036300.jpg 114,168,225,201,0 272,69,347,133,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_036725.jpg 235,118,303,169,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_036900.jpg 85,165,186,200,0 225,101,284,153,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_042925.jpg 222,175,304,227,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_052475.jpg 295,5,455,86,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_052975.jpg 227,21,331,98,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_053325.jpg 286,39,368,92,0 335,67,443,121,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_054600.jpg 214,117,347,241,6 186,120,247,171,0 287,177,371,211,0 271,198,324,243,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_055225.jpg 161,173,308,244,6 250,182,309,219,0 292,171,406,222,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_055350.jpg 163,164,307,252,6 216,136,300,195,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056650.jpg 133,89,347,251,6 154,176,321,330,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056725.jpg 271,216,434,321,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056850.jpg 213,219,418,325,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056875.jpg 226,218,433,324,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056950.jpg 210,206,400,326,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_056975.jpg 187,213,376,328,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_057100.jpg 112,167,375,289,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v01_057675.jpg 93,171,245,271,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_001700.jpg 238,286,365,331,0 325,6,431,52,0 457,359,655,424,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_001875.jpg 375,241,513,320,0 362,2,444,42,0 440,289,672,365,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_002400.jpg 451,295,571,358,0 395,7,507,58,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_003900.jpg 240,160,441,317,0 248,364,441,433,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007450.jpg 460,6,684,119,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007500.jpg 386,10,677,136,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007550.jpg 380,11,664,146,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007725.jpg 384,86,556,198,5 92,204,601,420,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_007925.jpg 385,186,517,277,5 169,227,446,339,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_010575.jpg 474,98,623,213,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_011950.jpg 346,296,546,431,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012000.jpg 248,310,400,428,5 485,80,616,160,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012175.jpg 384,231,483,325,5 117,209,453,374,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012800.jpg 532,212,725,323,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012825.jpg 502,160,723,268,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_012875.jpg 480,59,710,161,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_013075.jpg 238,138,583,280,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_013250.jpg 79,235,392,360,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_017550.jpg 672,119,760,173,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_018550.jpg 587,74,756,211,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_018600.jpg 340,131,755,424,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_018625.jpg 357,4,757,266,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019000.jpg 456,88,753,230,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019075.jpg 462,100,751,248,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019150.jpg 368,219,697,412,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019175.jpg 314,353,566,433,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_019775.jpg 408,12,667,177,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_022325.jpg 501,104,762,256,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023275.jpg 379,21,656,237,4 91,77,332,190,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023375.jpg 411,249,636,411,4 71,108,210,207,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023550.jpg 529,98,734,326,4 98,60,301,180,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023850.jpg 450,137,731,276,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_023900.jpg 456,76,750,219,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024150.jpg 534,119,756,272,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024300.jpg 505,27,756,187,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024350.jpg 639,7,743,116,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024500.jpg 364,191,740,421,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024650.jpg 438,68,698,237,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_024700.jpg 484,86,712,220,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025025.jpg 451,185,742,418,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025175.jpg 403,204,651,338,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025225.jpg 400,142,655,291,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_025950.jpg 316,252,726,431,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026150.jpg 277,266,461,434,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026575.jpg 51,177,280,252,0 372,145,726,331,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026600.jpg 63,206,200,290,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026625.jpg 434,79,751,290,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026725.jpg 315,255,497,439,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026775.jpg 250,271,376,428,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026850.jpg 235,239,329,426,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_026900.jpg 234,307,373,425,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_027050.jpg 289,244,449,432,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_027075.jpg 251,247,380,431,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_027225.jpg 279,287,459,427,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_030350.jpg 428,111,570,219,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_035700.jpg 448,1,684,157,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_036325.jpg 458,185,599,274,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_039175.jpg 344,45,465,131,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_040950.jpg 298,87,541,324,6 318,282,506,407,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_040975.jpg 250,87,471,330,6 303,250,418,335,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041100.jpg 221,139,443,365,6 345,342,456,417,0 110,71,282,138,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041250.jpg 257,175,478,373,6 387,239,503,318,0 342,202,444,264,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041500.jpg 139,8,640,176,6 78,148,325,316,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_041750.jpg 264,20,691,406,6 221,31,489,135,0 236,194,398,293,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_042225.jpg 436,-1,684,141,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_042400.jpg 533,76,730,228,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_043250.jpg 303,273,538,410,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_043400.jpg 259,245,417,413,5 402,14,633,119,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044150.jpg 230,10,431,154,1 425,19,692,168,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044250.jpg 250,75,468,196,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044325.jpg 331,5,702,175,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044725.jpg 538,29,714,254,6 554,297,714,363,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_044975.jpg 571,20,750,239,6 348,325,566,429,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045025.jpg 469,270,731,347,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045100.jpg 354,224,497,363,5 466,240,750,323,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045125.jpg 246,226,408,343,5 345,227,670,301,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045175.jpg 284,372,394,427,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_045700.jpg 519,20,702,160,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_048500.jpg 431,57,739,308,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_048525.jpg 512,224,754,372,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v02_048650.jpg 524,80,767,214,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_001150.jpg 232,192,382,278,0 252,57,351,116,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_002350.jpg 74,29,289,170,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_012450.jpg 289,191,423,299,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_015275.jpg 323,219,472,316,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_020600.jpg 423,68,601,189,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_022475.jpg 358,286,550,398,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_023100.jpg 347,77,503,198,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_023725.jpg 333,1,645,229,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_023875.jpg 76,267,294,400,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_026625.jpg 265,224,399,331,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_033350.jpg 299,15,644,261,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_036850.jpg 338,268,617,401,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_041725.jpg 388,58,594,208,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044150.jpg 463,264,602,356,4 258,127,396,222,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044300.jpg 508,164,624,303,4 240,14,422,196,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044375.jpg 444,221,591,389,4 117,20,356,201,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044475.jpg 312,226,476,348,4 101,41,343,222,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044525.jpg 272,102,438,232,4 238,7,382,93,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044775.jpg 361,129,518,242,4 282,6,456,124,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044825.jpg 346,129,513,235,4 263,10,456,123,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_044925.jpg 321,135,509,249,4 268,9,439,123,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045275.jpg 379,209,558,324,4 147,8,464,202,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045450.jpg 429,230,606,332,4 156,1,488,220,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045650.jpg 479,92,641,204,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_045850.jpg 346,124,625,296,4 120,20,294,168,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046075.jpg 275,49,453,184,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046600.jpg 394,165,583,277,4 225,8,450,132,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046650.jpg 386,147,565,269,4 309,8,450,95,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046775.jpg 395,171,578,284,4 267,10,462,120,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_046925.jpg 395,210,665,327,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047025.jpg 411,176,626,319,4 223,7,400,92,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047050.jpg 406,176,627,289,4 293,5,408,71,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047100.jpg 399,233,637,355,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047250.jpg 475,127,651,238,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047300.jpg 301,298,591,400,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_047525.jpg 354,13,663,198,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048050.jpg 352,139,645,303,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048200.jpg 318,209,622,378,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048300.jpg 376,152,639,312,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048500.jpg 273,80,463,241,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048550.jpg 311,219,622,386,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048650.jpg 436,210,647,401,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048800.jpg 370,107,661,348,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_048900.jpg 316,154,637,391,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049200.jpg 286,242,635,395,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049450.jpg 291,107,647,340,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049750.jpg 325,21,647,215,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049850.jpg 357,101,648,261,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_049900.jpg 283,89,641,330,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_050000.jpg 317,94,650,285,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_050300.jpg 342,93,632,283,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_050500.jpg 365,119,634,282,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_051225.jpg 301,20,482,167,4 58,228,204,352,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_051400.jpg 45,193,197,308,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052075.jpg 360,126,618,312,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052550.jpg 454,218,615,334,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052575.jpg 66,161,349,398,0 504,234,635,355,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052825.jpg 196,5,479,176,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052875.jpg 118,3,351,107,0 515,176,647,250,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_052900.jpg 544,175,639,251,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053050.jpg 373,66,618,193,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053150.jpg 315,55,613,192,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053250.jpg 342,30,582,163,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053400.jpg 355,32,577,173,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053525.jpg 479,33,586,128,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053550.jpg 476,51,606,143,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053675.jpg 416,26,576,150,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053725.jpg 363,12,567,166,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053750.jpg 391,22,580,149,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053825.jpg 340,29,603,210,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053875.jpg 361,14,566,150,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053900.jpg 362,14,566,156,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053925.jpg 345,10,574,125,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_053975.jpg 371,13,563,170,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054000.jpg 347,13,556,163,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054025.jpg 351,60,613,213,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054250.jpg 366,6,559,99,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054400.jpg 49,141,206,263,0 412,137,644,251,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054425.jpg 41,131,209,249,0 313,157,604,352,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054625.jpg 41,74,280,293,0 415,180,644,281,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054700.jpg 366,277,534,396,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_054750.jpg 426,246,600,368,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055200.jpg 48,145,189,225,0 229,8,397,84,0 380,141,643,287,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055300.jpg 43,125,211,230,0 237,5,424,79,0 362,121,596,244,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055400.jpg 49,198,184,270,0 232,11,420,75,0 328,132,508,239,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055425.jpg 45,174,226,283,0 251,7,420,75,0 366,116,556,226,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_055550.jpg 372,85,563,206,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056300.jpg 43,137,221,220,0 287,28,559,214,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056375.jpg 450,213,618,310,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056475.jpg 317,128,531,268,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056550.jpg 341,110,520,244,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056675.jpg 382,66,593,199,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_056725.jpg 479,53,607,134,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_064825.jpg 271,2,608,171,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_065750.jpg 340,23,560,203,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_067150.jpg 324,111,430,194,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_070175.jpg 464,13,609,95,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_077800.jpg 412,32,590,154,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_079575.jpg 340,137,465,221,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_080850.jpg 360,138,478,224,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_081500.jpg 346,4,498,138,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_084025.jpg 365,124,533,222,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_086225.jpg 325,126,544,272,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_089425.jpg 268,58,377,164,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_098275.jpg 265,89,607,337,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_099100.jpg 411,28,591,179,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_102550.jpg 236,70,350,194,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_106775.jpg 348,258,502,397,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_107075.jpg 254,172,598,365,6 157,185,331,325,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_107525.jpg 336,140,529,323,6 416,149,527,194,0 215,200,335,274,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_107625.jpg 342,162,498,342,6 175,17,303,119,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108075.jpg 368,131,576,347,6 424,102,539,182,0 350,277,454,381,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108650.jpg 248,154,467,311,6 259,173,373,263,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108750.jpg 245,156,426,332,6 326,157,483,243,0 407,207,508,269,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_108875.jpg 231,166,451,344,6 328,207,469,291,0 401,183,507,250,0 509,227,630,307,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109125.jpg 253,157,457,285,6 332,216,407,272,0 399,204,466,259,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109250.jpg 253,177,469,291,6 342,221,458,276,0 406,204,493,264,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109375.jpg 254,150,470,307,6 330,202,419,262,0 402,235,479,281,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109500.jpg 268,173,459,281,6 350,217,419,267,0 399,239,461,278,0 394,265,497,319,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_109625.jpg 244,172,450,284,6 351,213,442,267,0 452,129,609,215,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_110850.jpg 352,8,553,144,0 426,163,642,267,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_111825.jpg 95,195,474,392,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_111900.jpg 67,223,321,391,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_112000.jpg 61,218,245,401,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_112525.jpg 55,140,213,400,6 316,142,425,229,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113000.jpg 71,233,377,390,6 260,52,573,215,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113125.jpg 253,113,442,269,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113650.jpg 55,203,299,397,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113725.jpg 285,86,594,382,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_113750.jpg 119,153,492,393,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_114100.jpg 246,60,495,294,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v03_114125.jpg 261,84,494,309,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_000200.jpg 294,173,390,225,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_000750.jpg 252,184,343,224,0 302,75,407,137,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_003550.jpg 126,170,277,218,0 341,23,478,94,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_003725.jpg 282,39,407,103,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_004350.jpg 230,162,366,285,1 320,22,440,66,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_004575.jpg 281,65,450,194,1 109,143,301,222,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_004875.jpg 238,104,465,252,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_005000.jpg 260,52,386,168,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_005075.jpg 253,138,426,251,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_005425.jpg 102,167,332,247,0 295,13,405,66,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_013650.jpg 268,176,511,342,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_014025.jpg 262,196,436,341,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_014125.jpg 216,56,327,199,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_014350.jpg 401,162,517,246,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015025.jpg 411,145,537,246,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015125.jpg 97,102,257,188,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015600.jpg 357,55,503,157,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015650.jpg 347,44,491,158,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_015825.jpg 314,110,467,227,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_017650.jpg 225,168,307,229,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020100.jpg 245,4,531,212,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020125.jpg 247,7,513,206,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020225.jpg 232,41,451,245,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020300.jpg 180,18,368,189,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020400.jpg 299,34,470,193,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_020475.jpg 262,83,381,214,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_021325.jpg 97,139,289,215,0 303,15,412,74,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025225.jpg 166,9,389,249,1 313,19,487,203,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025250.jpg 195,10,433,169,1 356,32,527,189,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025300.jpg 236,106,342,212,1 382,11,568,136,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025325.jpg 209,122,303,208,1 360,14,529,151,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025425.jpg 220,137,312,226,1 338,21,534,157,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025475.jpg 207,149,273,218,1 332,25,532,166,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025550.jpg 223,129,305,225,1 325,14,520,152,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025650.jpg 252,167,330,256,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025675.jpg 231,170,308,272,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025725.jpg 208,102,273,181,1 305,10,509,156,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025800.jpg 243,209,312,299,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_025925.jpg 214,115,313,203,1 289,9,486,146,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026000.jpg 408,189,453,247,1 309,9,485,144,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026050.jpg 364,117,440,173,1 344,10,476,103,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026225.jpg 278,181,351,269,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026250.jpg 320,163,410,260,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_026525.jpg 313,196,398,292,1 314,11,476,121,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_027800.jpg 198,11,501,323,6 155,102,289,180,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_027875.jpg 167,15,506,328,6 69,52,261,130,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_027950.jpg 165,12,482,337,6 77,93,241,170,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_028675.jpg 205,14,531,197,6 88,111,264,184,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_028800.jpg 200,20,538,192,6 275,15,415,74,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v04_028975.jpg 143,61,473,240,6 235,71,355,130,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_008850.jpg 326,198,571,353,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_014475.jpg 248,206,585,477,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_015125.jpg 259,325,509,474,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_016600.jpg 225,281,505,473,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_019475.jpg 255,231,596,415,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_021600.jpg 290,317,528,475,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_029950.jpg 288,152,758,470,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_031225.jpg 234,185,688,478,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_031275.jpg 90,225,359,474,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_031425.jpg 200,69,431,296,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032025.jpg 11,138,203,233,0 371,95,746,306,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032050.jpg 321,210,614,468,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032100.jpg 282,199,628,461,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032250.jpg 241,186,554,462,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032425.jpg 221,102,477,436,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032450.jpg 239,258,512,468,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_032600.jpg 11,183,331,317,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_037750.jpg 477,164,755,360,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_044100.jpg 400,106,651,273,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_048575.jpg 385,227,631,403,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_048900.jpg 431,8,807,104,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_050325.jpg 239,241,721,474,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_052850.jpg 431,170,659,303,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_055500.jpg 89,169,666,457,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_055550.jpg 146,185,700,464,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_055575.jpg 124,205,664,473,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056100.jpg 82,13,436,459,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056425.jpg 47,188,465,460,6 176,16,491,182,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056450.jpg 36,213,419,465,6 154,14,491,224,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056650.jpg 90,19,630,455,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056700.jpg 80,13,660,456,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_056800.jpg 56,39,540,450,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_058275.jpg 220,12,795,371,6 522,104,769,237,0 11,164,337,287,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059250.jpg 120,19,694,455,6 319,91,581,293,0 494,52,651,138,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059500.jpg 271,9,792,302,6 531,188,820,312,0 305,99,475,212,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059550.jpg 247,14,744,376,6 490,122,764,212,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_059650.jpg 228,19,726,317,6 553,94,777,188,0 270,190,456,294,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_060150.jpg 216,68,630,384,6 373,235,715,363,0 30,251,396,406,0 357,8,553,79,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_060275.jpg 224,65,629,393,6 413,221,579,302,0 44,258,297,384,0 389,7,565,77,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_061600.jpg 195,104,651,462,6 75,157,442,400,0 449,27,734,103,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v05_061750.jpg 107,109,534,455,6 325,37,722,126,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_000950.jpg 307,190,487,295,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_002175.jpg 276,42,444,148,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_011550.jpg 101,171,256,230,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_011925.jpg 100,85,259,156,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_015625.jpg 369,99,491,192,1 108,167,296,234,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_015850.jpg 355,89,475,205,1 105,162,299,247,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_016075.jpg 354,152,478,248,1 110,180,284,260,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_016100.jpg 372,125,488,223,1 107,150,281,219,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_016275.jpg 324,51,450,176,1 101,166,253,263,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021700.jpg 110,96,220,145,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021800.jpg 345,75,480,211,1 121,76,225,151,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021900.jpg 341,86,484,208,1 115,88,217,161,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_021950.jpg 311,132,480,247,1 115,93,202,180,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_022175.jpg 348,82,477,196,1 119,72,200,149,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_022450.jpg 344,164,480,251,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_022550.jpg 296,95,492,229,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_024250.jpg 131,34,352,170,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_026625.jpg 331,168,499,276,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_027575.jpg 110,51,315,179,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_031000.jpg 219,5,377,137,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_032975.jpg 312,135,423,222,4 146,107,256,160,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033350.jpg 282,22,475,177,4 172,21,276,107,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033550.jpg 305,51,473,195,4 199,9,292,93,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033600.jpg 296,40,458,198,4 181,15,280,100,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_033975.jpg 337,118,497,238,4 175,17,354,133,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034150.jpg 316,116,443,223,4 112,123,251,193,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034200.jpg 305,77,475,220,4 110,123,237,212,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034575.jpg 116,23,347,138,0 320,108,491,215,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034650.jpg 109,24,351,132,0 303,108,478,215,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034675.jpg 115,35,346,142,0 295,136,440,226,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034700.jpg 98,85,307,171,0 352,184,508,260,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_034875.jpg 105,64,306,152,0 317,122,436,193,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_036150.jpg 302,155,439,240,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038125.jpg 316,178,469,269,1 161,33,366,158,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038150.jpg 306,267,421,327,1 149,37,371,158,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038275.jpg 365,101,491,202,1 144,50,359,168,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038450.jpg 351,150,483,237,1 111,168,334,243,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_038500.jpg 312,120,484,231,1 107,180,343,261,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039000.jpg 398,207,467,272,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039100.jpg 382,99,484,194,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039125.jpg 308,84,454,193,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039275.jpg 369,127,476,204,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039300.jpg 380,117,480,185,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_039425.jpg 354,80,471,185,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_042450.jpg 308,48,423,158,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_042525.jpg 327,30,430,135,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_042575.jpg 313,126,471,231,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043050.jpg 334,88,485,183,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043075.jpg 305,66,472,182,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043125.jpg 302,73,471,186,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043175.jpg 303,66,456,171,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043200.jpg 294,75,466,181,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043475.jpg 288,10,452,135,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_043500.jpg 290,27,455,155,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047050.jpg 143,18,294,93,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047425.jpg 227,3,363,62,0 351,20,440,110,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047450.jpg 238,129,324,226,1 210,29,369,109,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_047650.jpg 382,125,485,216,1 211,9,367,91,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_048050.jpg 296,49,404,150,1 102,141,238,200,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_049900.jpg 104,141,445,326,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051150.jpg 247,154,374,228,5 362,73,482,115,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051200.jpg 335,58,407,137,5 361,64,489,197,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051450.jpg 333,63,488,175,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051650.jpg 297,38,411,162,1 354,86,480,194,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051675.jpg 288,13,378,135,1 341,66,471,190,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051700.jpg 268,10,342,115,1 327,90,476,200,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051750.jpg 217,50,318,161,1 346,75,483,192,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_051875.jpg 120,49,213,111,0 368,106,495,211,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_052050.jpg 352,97,502,201,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_052400.jpg 89,116,251,268,0 357,140,506,232,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055800.jpg 293,22,418,157,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055850.jpg 359,75,460,168,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055900.jpg 313,16,407,112,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055950.jpg 285,15,418,160,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_055975.jpg 309,12,415,140,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056075.jpg 297,37,427,164,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056100.jpg 299,47,438,181,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056125.jpg 289,14,403,135,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056200.jpg 288,48,408,169,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056275.jpg 274,42,399,170,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056325.jpg 240,56,412,206,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_056750.jpg 332,73,429,161,5 241,74,338,138,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_058075.jpg 319,73,451,173,5 130,100,305,201,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059300.jpg 310,73,442,173,5 198,26,332,145,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059400.jpg 276,89,423,204,5 215,8,342,123,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059450.jpg 295,68,454,175,5 188,21,332,137,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059650.jpg 307,101,442,184,5 177,11,339,115,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059675.jpg 310,69,458,176,5 171,20,336,126,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_059700.jpg 303,112,442,214,5 147,71,326,175,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_060050.jpg 296,82,432,170,5 144,44,308,151,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_060425.jpg 188,70,360,155,0 380,107,496,171,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_062200.jpg 102,210,286,280,0 329,158,453,233,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_064425.jpg 118,55,243,107,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_065825.jpg 377,142,479,273,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_066150.jpg 146,116,353,308,6 359,77,468,160,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_066275.jpg 227,99,407,299,6 332,118,425,192,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_066525.jpg 221,88,455,296,6 189,83,358,169,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067050.jpg 121,112,387,303,6 317,73,396,142,0 341,100,449,173,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067350.jpg 162,163,328,297,6 218,159,312,227,0 285,47,422,149,0 285,132,384,203,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067550.jpg 201,117,408,250,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067575.jpg 189,99,388,243,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_067625.jpg 187,100,363,233,6 261,110,343,184,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_068350.jpg 268,45,460,223,6 225,164,307,249,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_069075.jpg 203,48,357,139,6 115,117,331,205,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_069450.jpg 307,131,463,218,5 186,52,339,144,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070150.jpg 117,90,327,172,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070250.jpg 264,113,395,223,1 169,52,330,143,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070400.jpg 312,128,394,214,1 110,104,335,174,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070475.jpg 260,137,347,203,1 167,62,319,150,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070550.jpg 302,158,405,257,1 174,59,318,141,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070575.jpg 259,158,394,244,1 174,57,333,140,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070700.jpg 233,139,338,234,1 158,59,314,131,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_070900.jpg 344,36,457,152,1 151,71,323,154,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071000.jpg 333,69,472,180,1 147,53,314,147,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071100.jpg 338,98,468,197,1 154,64,322,159,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071125.jpg 247,23,341,126,1 122,93,276,168,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071425.jpg 335,162,485,250,1 171,36,326,122,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071475.jpg 259,147,366,235,1 159,39,335,122,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071575.jpg 361,108,482,217,1 189,146,358,220,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071650.jpg 369,72,483,181,1 220,62,413,176,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_071850.jpg 242,176,421,292,1 141,40,353,151,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072325.jpg 352,144,468,221,5 173,5,320,65,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072450.jpg 309,203,422,283,5 184,4,324,58,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072575.jpg 330,258,414,321,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072625.jpg 432,170,488,233,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072675.jpg 422,180,478,249,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_072950.jpg 336,89,425,158,5 187,149,338,214,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_073650.jpg 276,108,450,236,6 135,238,314,312,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_074050.jpg 270,65,466,260,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_074225.jpg 383,226,465,294,5 143,254,304,315,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_074875.jpg 292,110,387,181,1 117,168,286,240,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_075175.jpg 315,108,478,233,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076100.jpg 251,17,360,132,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076600.jpg 161,143,271,229,6 113,114,237,183,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076750.jpg 199,177,326,271,6 109,78,220,135,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_076875.jpg 319,222,456,307,6 95,187,210,254,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_077225.jpg 108,186,226,293,6 170,73,313,168,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v06_077250.jpg 111,187,212,263,6 195,55,350,152,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_001400.jpg 219,66,356,130,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_002300.jpg 132,119,368,194,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_006750.jpg 260,82,349,155,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_007375.jpg 284,1,387,85,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_008175.jpg 254,123,476,328,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_011000.jpg 261,78,385,190,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_012050.jpg 119,74,324,161,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015025.jpg 284,147,405,247,5 138,48,328,120,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015325.jpg 211,152,319,273,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015400.jpg 210,103,356,232,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015475.jpg 251,61,447,146,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015550.jpg 207,165,362,305,5 193,10,357,95,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_015725.jpg 193,126,307,273,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_016000.jpg 284,70,419,241,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_016025.jpg 257,91,381,283,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018200.jpg 279,132,452,245,4 136,60,266,128,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018275.jpg 266,109,374,187,4 190,5,360,47,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018400.jpg 293,70,495,239,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018450.jpg 317,138,495,299,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018925.jpg 234,117,444,326,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_018975.jpg 240,122,357,228,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019025.jpg 273,191,469,327,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019400.jpg 293,50,468,163,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019450.jpg 269,63,394,223,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019550.jpg 212,133,399,295,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_019775.jpg 236,119,370,211,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_020325.jpg 231,148,338,269,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_024700.jpg 89,99,335,247,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_028175.jpg 241,12,468,165,6 177,112,362,207,0 190,16,431,121,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_028500.jpg 258,4,399,160,6 310,4,399,44,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_028650.jpg 250,54,461,151,6 329,115,434,195,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_029225.jpg 288,8,435,74,6 255,48,378,123,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_029250.jpg 301,7,428,82,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_029275.jpg 298,7,421,85,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_030100.jpg 364,257,428,314,5 287,7,403,66,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031450.jpg 402,35,486,100,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031475.jpg 377,13,477,83,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031700.jpg 116,95,364,222,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031725.jpg 239,99,422,263,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031800.jpg 299,12,444,99,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031825.jpg 278,6,428,101,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031875.jpg 256,20,434,120,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_031925.jpg 277,22,450,152,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032600.jpg 234,102,327,159,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032625.jpg 206,43,305,138,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032725.jpg 215,47,380,134,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_032875.jpg 172,12,383,138,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033125.jpg 359,131,428,184,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033175.jpg 342,157,414,200,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033250.jpg 138,243,434,325,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033275.jpg 219,4,383,154,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033300.jpg 139,34,314,82,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v07_033850.jpg 265,4,493,242,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_000975.jpg 48,150,262,232,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_001675.jpg 78,233,430,396,0 452,187,617,251,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_003625.jpg 465,143,566,204,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006250.jpg 295,163,540,335,1 277,9,482,66,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006450.jpg 422,114,592,228,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006575.jpg 426,199,584,285,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006600.jpg 420,189,573,267,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006625.jpg 376,209,492,278,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006675.jpg 401,174,538,257,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_006825.jpg 410,156,560,247,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_007025.jpg 420,136,574,230,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_007050.jpg 448,129,612,242,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_012600.jpg 429,109,581,213,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_012650.jpg 379,53,561,187,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_012850.jpg 356,180,494,275,4 126,17,411,133,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_013300.jpg 197,9,365,54,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_013475.jpg 307,6,501,132,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_013775.jpg 325,8,509,172,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_014600.jpg 369,22,533,142,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_014800.jpg 392,38,551,149,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_014950.jpg 398,72,589,194,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015300.jpg 221,4,409,76,0 286,246,356,304,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015350.jpg 101,8,346,95,0 382,95,510,187,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015375.jpg 109,2,337,85,0 354,94,499,206,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015400.jpg 346,56,535,218,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015575.jpg 323,35,487,187,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_015675.jpg 346,13,481,138,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016100.jpg 352,171,494,270,1 236,18,428,116,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016150.jpg 288,21,429,164,1 106,31,255,148,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016250.jpg 261,4,393,147,1 108,20,194,114,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016300.jpg 228,10,376,158,1 75,41,192,157,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016325.jpg 211,11,354,186,1 61,111,162,203,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_016400.jpg 275,51,444,194,1 98,47,251,153,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_017000.jpg 28,217,272,323,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_017925.jpg 440,117,555,191,5 98,62,293,176,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018275.jpg 258,176,446,294,5 73,131,245,214,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018375.jpg 227,92,359,216,5 84,180,254,275,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018475.jpg 343,24,496,155,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018500.jpg 309,80,516,216,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018550.jpg 324,102,510,223,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018650.jpg 342,300,531,387,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018850.jpg 329,121,527,225,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_018975.jpg 436,38,544,126,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019000.jpg 420,28,549,132,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019100.jpg 406,18,538,129,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019150.jpg 354,33,520,172,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019175.jpg 364,13,517,101,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019200.jpg 386,34,555,163,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019250.jpg 332,264,493,370,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019275.jpg 367,309,503,387,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019300.jpg 295,328,440,392,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019425.jpg 340,59,513,196,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019525.jpg 425,3,534,68,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019575.jpg 431,9,540,102,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019675.jpg 365,17,521,136,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_019800.jpg 409,39,554,122,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020175.jpg 323,222,577,364,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020275.jpg 394,11,547,154,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020325.jpg 375,4,552,149,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020425.jpg 333,6,536,126,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020450.jpg 346,4,540,127,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020500.jpg 396,30,564,177,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020650.jpg 316,9,532,164,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020700.jpg 348,4,530,138,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020825.jpg 297,6,462,146,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020925.jpg 345,53,567,208,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_020950.jpg 317,31,506,185,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021000.jpg 237,5,410,182,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021300.jpg 363,97,543,213,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021325.jpg 339,101,544,228,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021425.jpg 373,73,529,166,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021475.jpg 413,53,549,146,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021500.jpg 329,31,455,155,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021725.jpg 388,248,587,315,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021775.jpg 373,213,578,289,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_021950.jpg 323,285,464,378,5 288,11,465,72,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022375.jpg 395,203,547,269,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022425.jpg 415,169,582,246,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022450.jpg 471,123,599,190,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022525.jpg 356,198,555,294,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022575.jpg 353,289,503,374,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022625.jpg 320,297,461,380,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022725.jpg 345,226,542,312,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022775.jpg 423,165,572,234,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022800.jpg 465,155,596,225,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_022875.jpg 216,110,375,191,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023450.jpg 210,202,358,286,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023750.jpg 158,254,387,343,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023900.jpg 278,299,465,377,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_023975.jpg 291,263,477,350,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024050.jpg 253,267,501,359,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024100.jpg 246,253,486,334,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024300.jpg 237,275,469,384,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024325.jpg 259,260,491,359,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024350.jpg 244,302,452,389,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024425.jpg 242,303,416,388,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_024450.jpg 335,239,531,320,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_025625.jpg 337,24,472,152,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_026375.jpg 309,125,396,200,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_028775.jpg 345,92,482,176,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_029825.jpg 374,92,497,187,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_029850.jpg 380,62,506,172,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_029925.jpg 385,105,529,207,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030000.jpg 361,113,466,190,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030075.jpg 328,123,418,203,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030125.jpg 335,162,412,213,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030175.jpg 361,159,468,228,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030225.jpg 357,213,473,275,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_030325.jpg 360,150,490,234,1
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033450.jpg 48,153,280,257,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033625.jpg 39,219,301,283,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033725.jpg 300,158,493,266,1 116,148,337,260,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033775.jpg 266,180,418,292,1 80,184,265,259,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_033825.jpg 306,89,446,210,1 93,100,279,203,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034125.jpg 374,215,546,335,1 133,21,327,142,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034250.jpg 389,144,538,257,1 135,16,326,137,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034425.jpg 287,216,436,318,1 119,34,322,150,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034500.jpg 352,265,492,378,1 111,40,325,169,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_034950.jpg 374,120,491,209,1 100,87,296,184,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_035750.jpg 338,41,552,389,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_035875.jpg 76,58,573,373,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_036300.jpg 143,61,397,343,6 128,120,315,217,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037325.jpg 246,92,590,285,6 394,199,540,282,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037525.jpg 234,103,596,318,6 381,238,493,292,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037600.jpg 170,83,538,371,6 276,246,534,349,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037825.jpg 480,100,606,284,6 57,130,207,195,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_037900.jpg 480,87,606,304,6 340,164,561,395,0 71,97,229,195,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038025.jpg 463,57,608,267,6 282,68,507,290,0 179,72,329,161,0 495,159,617,236,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038550.jpg 303,19,436,120,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038650.jpg 273,338,380,388,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038775.jpg 297,292,404,381,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038800.jpg 285,305,395,383,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038825.jpg 283,308,393,382,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038850.jpg 244,332,355,390,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_038950.jpg 295,269,531,371,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039000.jpg 243,338,350,387,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039150.jpg 423,166,576,229,5 388,229,548,322,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039275.jpg 282,206,451,298,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_039375.jpg 532,252,607,311,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_040275.jpg 499,184,621,270,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v08_040450.jpg 204,175,450,396,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_000325.jpg 524,96,570,146,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_002350.jpg 95,112,358,225,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_007175.jpg 298,86,388,183,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_008700.jpg 82,4,290,115,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_012175.jpg 488,62,579,154,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_012625.jpg 468,211,802,449,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013375.jpg 472,115,657,260,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013425.jpg 470,141,758,312,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013650.jpg 379,10,523,144,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013675.jpg 379,9,489,131,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013725.jpg 358,9,583,209,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_013825.jpg 345,15,516,173,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_018775.jpg 43,148,304,266,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_019450.jpg 586,275,794,373,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_022700.jpg 308,200,383,300,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_023325.jpg 469,239,583,328,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_025200.jpg 395,287,467,359,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_025375.jpg 221,336,452,413,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_025900.jpg 102,119,363,250,0 387,5,516,107,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_027200.jpg 381,128,488,226,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_028450.jpg 291,73,404,169,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_029700.jpg 433,23,796,238,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_030950.jpg 557,239,807,372,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_034175.jpg 570,182,811,293,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_036050.jpg 515,30,703,173,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_036675.jpg 444,210,609,331,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_037200.jpg 395,184,579,321,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_037375.jpg 204,8,331,86,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_038675.jpg 409,63,588,207,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_041700.jpg 498,8,720,96,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_044475.jpg 101,43,347,441,6 321,260,787,429,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_044625.jpg 245,88,544,380,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_044700.jpg 198,93,576,431,6 132,13,455,209,0 585,48,778,150,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_045075.jpg 230,247,638,413,6 253,221,406,348,0 489,221,686,345,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_045200.jpg 340,204,699,418,6 253,230,466,381,0 510,178,720,261,0 548,349,727,443,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_045450.jpg 403,21,781,276,6 602,207,799,308,0 259,297,486,448,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046050.jpg 422,25,797,337,6 468,231,574,371,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046125.jpg 442,23,779,358,6 492,265,576,345,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046350.jpg 407,18,797,256,6 436,159,528,323,0 562,233,796,314,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046425.jpg 436,6,796,232,6 571,236,799,309,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_046500.jpg 477,22,801,245,6 626,209,795,293,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047100.jpg 700,194,798,356,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047125.jpg 555,184,759,422,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047300.jpg 571,205,794,377,6 567,160,783,394,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047450.jpg 276,250,524,446,6 400,358,590,448,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047750.jpg 361,89,560,223,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v09_047925.jpg 544,261,746,422,6 424,54,579,336,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_000150.jpg 240,60,392,122,0 214,16,263,53,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_011050.jpg 268,187,353,263,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_013875.jpg 220,146,424,242,0 294,11,485,144,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_014375.jpg 281,141,413,259,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_015900.jpg 157,7,322,120,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016225.jpg 240,182,355,304,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016325.jpg 256,207,353,307,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016375.jpg 208,239,369,310,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016425.jpg 339,248,420,307,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016450.jpg 267,249,376,318,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_016525.jpg 257,182,393,315,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_018975.jpg 309,168,451,264,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019000.jpg 312,169,433,258,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019025.jpg 242,194,357,321,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019550.jpg 258,78,395,175,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019650.jpg 307,95,390,155,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019750.jpg 317,75,428,153,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_019850.jpg 320,145,389,195,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020050.jpg 275,67,369,135,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020200.jpg 339,22,480,100,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020250.jpg 288,185,488,314,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_020925.jpg 262,206,345,271,5 106,140,266,204,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022475.jpg 325,65,454,158,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022500.jpg 287,61,444,171,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022525.jpg 316,48,432,147,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022550.jpg 270,14,399,122,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022575.jpg 253,9,363,102,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022600.jpg 324,171,459,275,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022650.jpg 312,40,432,157,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022850.jpg 186,204,393,313,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_022925.jpg 275,87,446,218,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023125.jpg 293,23,417,140,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023150.jpg 339,14,440,125,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023175.jpg 309,12,422,130,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023200.jpg 255,14,416,124,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023250.jpg 252,74,436,210,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023275.jpg 311,49,441,149,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023350.jpg 306,38,437,152,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023400.jpg 279,14,375,115,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023425.jpg 321,121,451,201,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_023850.jpg 360,88,479,175,4 112,119,225,183,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024500.jpg 280,137,377,193,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024550.jpg 268,142,380,214,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024600.jpg 286,130,385,189,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024800.jpg 252,142,379,244,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024850.jpg 238,112,390,220,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_024900.jpg 260,268,377,325,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025000.jpg 249,142,378,252,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025050.jpg 234,182,357,268,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025100.jpg 242,181,368,272,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025200.jpg 257,153,350,216,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_025250.jpg 292,145,487,259,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026100.jpg 330,118,461,204,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026125.jpg 279,100,452,219,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026150.jpg 226,26,390,174,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026200.jpg 276,150,438,279,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026300.jpg 401,69,485,159,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026325.jpg 283,78,420,188,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026425.jpg 291,91,422,184,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026450.jpg 324,179,424,281,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026475.jpg 309,158,456,258,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026500.jpg 292,128,462,229,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026525.jpg 313,86,444,163,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026650.jpg 338,157,441,229,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_026750.jpg 289,200,402,296,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_029475.jpg 256,171,342,224,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_031625.jpg 322,170,497,280,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_031775.jpg 321,15,477,119,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_031875.jpg 325,190,488,308,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032025.jpg 300,140,460,234,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032225.jpg 350,57,488,145,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032875.jpg 406,164,500,250,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_032925.jpg 323,160,499,270,4
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034000.jpg 328,10,456,153,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034075.jpg 352,40,462,144,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034175.jpg 295,20,444,151,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034250.jpg 279,7,411,109,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034375.jpg 310,6,419,106,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034475.jpg 328,10,424,99,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034500.jpg 317,10,419,100,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034525.jpg 316,10,418,97,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034550.jpg 328,9,418,87,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034600.jpg 316,10,413,96,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034650.jpg 299,4,408,84,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034675.jpg 292,8,411,92,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034725.jpg 283,5,410,98,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034825.jpg 290,5,403,98,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034850.jpg 271,5,384,94,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_034875.jpg 286,5,405,98,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035000.jpg 302,48,447,178,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035025.jpg 275,20,396,138,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035075.jpg 260,44,395,155,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_035200.jpg 279,53,391,157,3
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_036925.jpg 237,33,389,153,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_038275.jpg 347,91,447,147,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_040150.jpg 321,41,485,151,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_040775.jpg 277,161,420,268,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_047575.jpg 265,160,342,212,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_054775.jpg 298,78,419,167,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_056225.jpg 230,94,329,182,2
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_056675.jpg 318,37,496,193,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061000.jpg 197,191,479,320,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061075.jpg 245,229,394,314,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061200.jpg 200,98,413,295,6 107,120,295,212,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061500.jpg 214,19,447,180,6 165,47,305,137,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_061550.jpg 228,21,457,195,6 188,70,349,172,0 280,209,428,312,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_062375.jpg 240,57,416,233,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_063850.jpg 175,11,352,181,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064125.jpg 335,39,399,114,5 173,11,323,112,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064225.jpg 321,19,429,132,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064375.jpg 285,83,410,197,5 190,9,393,78,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064525.jpg 179,6,268,75,0 147,75,484,206,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064550.jpg 257,34,374,171,5
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064800.jpg 165,153,427,305,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_064925.jpg 124,113,311,268,6 192,8,340,79,0
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_065125.jpg 327,197,444,294,6
+/data2/zhenglujie/data/VOCdevkit/VOC2007/JPEGImages/v10_066100.jpg 106,111,341,216,6 163,7,338,69,0

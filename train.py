@@ -47,7 +47,7 @@ if __name__ == "__main__":
     #               默认为第一张卡、双卡为[0, 1]、三卡为[0, 1, 2]
     #               在使用多GPU时，每个卡上的batch为总batch除以卡的数量。
     #---------------------------------------------------------------------#
-    train_gpu       = [7, ]
+    train_gpu       = [0, ]
     #---------------------------------------------------------------------#
     #   fp16        是否使用混合精度训练
     #               可减少约一半的显存、需要pytorch1.7.1以上
@@ -218,7 +218,7 @@ if __name__ == "__main__":
     #                   开启后会加快数据读取速度，但是会占用更多内存
     #                   在IO为瓶颈的时候再开启多线程，即GPU运算速度远大于读取图片的速度。
     #------------------------------------------------------------------#
-    num_workers         = 4
+    num_workers         = 1
     #----------------------------------------------------#
     #   获得图片路径和标签
     #----------------------------------------------------#
@@ -384,9 +384,9 @@ if __name__ == "__main__":
         train_dataset   = FRCNNDataset(train_lines, input_shape, train = True)
         val_dataset     = FRCNNDataset(val_lines, input_shape, train = False)
 
-        gen             = DataLoader(train_dataset, shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=True,
+        gen             = DataLoader(train_dataset, shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=False,
                                     drop_last=True, collate_fn=frcnn_dataset_collate)
-        gen_val         = DataLoader(val_dataset  , shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=True, 
+        gen_val         = DataLoader(val_dataset  , shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=False, 
                                     drop_last=True, collate_fn=frcnn_dataset_collate)
 
         train_util      = FasterRCNNTrainer(model_train, optimizer)
@@ -433,9 +433,9 @@ if __name__ == "__main__":
                 if epoch_step == 0 or epoch_step_val == 0:
                     raise ValueError("数据集过小，无法继续进行训练，请扩充数据集。")
 
-                gen             = DataLoader(train_dataset, shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=True,
+                gen             = DataLoader(train_dataset, shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=False,
                                             drop_last=True, collate_fn=frcnn_dataset_collate)
-                gen_val         = DataLoader(val_dataset  , shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=True, 
+                gen_val         = DataLoader(val_dataset  , shuffle = True, batch_size = batch_size, num_workers = num_workers, pin_memory=False, 
                                             drop_last=True, collate_fn=frcnn_dataset_collate)
 
                 UnFreeze_flag = True
