@@ -137,3 +137,5 @@ def predict():
 
     else:
         raise AssertionError("Please specify the correct mode: 'predict', 'video', 'fps' or 'dir_predict'.")
+
+predict()
