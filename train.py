@@ -78,7 +78,7 @@ if __name__ == "__main__":
     # if not os.path.exists('model_data/voc_weights_resnet.pth'):
     #     model_path      = 'model_data/voc_weights_resnet.pth'
     # else:
-    model_path = ''
+    model_path = 'logs/last_epoch_weights.pth'
         #------------------------------------------------------#
     #   input_shape     输入的shape大小
     #------------------------------------------------------#
