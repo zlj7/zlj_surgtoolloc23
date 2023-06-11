@@ -78,11 +78,12 @@ if __name__ == "__main__":
     # if not os.path.exists('model_data/voc_weights_resnet.pth'):
     #     model_path      = 'model_data/voc_weights_resnet.pth'
     # else:
+    #model_path      = 'logs/last_epoch_weights.pth'
     model_path = ''
         #------------------------------------------------------#
     #   input_shape     输入的shape大小
     #------------------------------------------------------#
-    input_shape     = [320, 320]
+    input_shape     = [512, 512]
     #---------------------------------------------#
     #   vgg
     #   resnet50
@@ -149,7 +150,7 @@ if __name__ == "__main__":
     #------------------------------------------------------------------#
     Init_Epoch          = 0
     Freeze_Epoch        = 50
-    Freeze_batch_size   = 2
+    Freeze_batch_size   = 16
     #------------------------------------------------------------------#
     #   解冻阶段训练参数
     #   此时模型的主干不被冻结了，特征提取网络会发生改变
@@ -160,7 +161,7 @@ if __name__ == "__main__":
     #   Unfreeze_batch_size     模型在解冻后的batch_size
     #------------------------------------------------------------------#
     UnFreeze_Epoch      = 100
-    Unfreeze_batch_size = 2
+    Unfreeze_batch_size = 8
     #------------------------------------------------------------------#
     #   Freeze_Train    是否进行冻结训练
     #                   默认先冻结主干训练后解冻训练。
@@ -177,7 +178,7 @@ if __name__ == "__main__":
     #                   当使用SGD优化器时建议设置   Init_lr=1e-2
     #   Min_lr          模型的最小学习率，默认为最大学习率的0.01
     #------------------------------------------------------------------#
-    Init_lr             = 1e-3
+    Init_lr             = 1e-4
     Min_lr              = Init_lr * 0.01
     #------------------------------------------------------------------#
     #   optimizer_type  使用到的优化器种类，可选的有adam、sgd
