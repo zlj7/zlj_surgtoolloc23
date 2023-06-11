@@ -1,7 +1,7 @@
 import cv2
 import os
 
-video_folder = '/data2/huyaojun/data/SurtoolDataset/video_clips'
+video_folder = '/data2/huyaojun/SurtoolDataset/_release/training_data/video_clips'
 output_folder = '../../data/SurtoolDataset/images'
 
 save_intervene = 60 * 15
