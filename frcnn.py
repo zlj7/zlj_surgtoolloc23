@@ -156,11 +156,8 @@ class FRCNN(object):
                 return image
                 
             top_label   = np.array(results[0][:, 5], dtype = 'int32')
-            print(top_label)
             top_conf    = results[0][:, 4]
-            print(top_conf)
             top_boxes   = results[0][:, :4]
-            print(top_boxes)
         
         #---------------------------------------------------------#
         #   设置字体与边框厚度
