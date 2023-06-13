@@ -54,8 +54,8 @@ def predict():
     #   
     #   dir_origin_path和dir_save_path仅在mode='dir_predict'时有效
     #-------------------------------------------------------------------------#
-    dir_origin_path = "img/"
-    dir_save_path   = "img_out/"
+    dir_origin_path = "test/"
+    dir_save_path   = "test_out/"
 
     if mode == "predict":
         '''

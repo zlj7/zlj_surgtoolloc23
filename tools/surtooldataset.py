@@ -24,7 +24,6 @@ class SurtoolDataset(Dataset):
             label_str = df.loc[df['clip_name'] == clip_name, 'tools_present'].values[0]
             label_list = label_str[1 : -1].split(', ')
             label = [self.map_label(l) for l in label_list if l != "nan"]
-            print(label)
             self.labels.append(label)
 
     def __len__(self):
@@ -34,7 +33,7 @@ class SurtoolDataset(Dataset):
         # 读取图像
         img = cv2.imread(self.image_paths[idx])
         # print(img)
-        # img = cv2.resize(img, (self.img_width, self.img_height))
+        img = cv2.resize(img, (1066, 600))
         img = img / 255.0
         img = img.transpose(2, 0, 1)
 
@@ -43,8 +42,8 @@ class SurtoolDataset(Dataset):
             img = self.transform(img)
 
         return{
-            'imgs': img.astype(np.float64),
-            'label': self.labels[idx]
+            'imgs': img,
+            'labels': np.array(self.labels[idx])
         }
 
     def map_label(self, label_name):
@@ -67,18 +66,3 @@ class SurtoolDataset(Dataset):
         }
         return label_map[label_name]
 
-
-
-# 创建数据集
-train_data = SurtoolDataset('../../data/SurtoolDataset/train.txt', '../../data/SurtoolDataset/labels.csv', transform=None)
-test_data = SurtoolDataset('../../data/SurtoolDataset/test.txt', '../../data/SurtoolDataset/labels.csv', transform=None)
-
-# 创建数据加载器
-train_loader = DataLoader(train_data, batch_size=32, shuffle=True)
-test_loader = DataLoader(test_data, batch_size=32, shuffle=False)
-
-for step, batch in enumerate(train_loader):
-    imgs = batch['imgs']
-    label = batch['label']
-    # print(imgs)
-    print(label)

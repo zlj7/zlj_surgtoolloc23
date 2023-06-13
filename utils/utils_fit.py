@@ -24,6 +24,14 @@ def fit_one_epoch(model, train_util, loss_history, eval_callback, optimizer, epo
                 if cuda:
                     images = images.cuda()
 
+            # print(images.shape)
+            # print(boxes)
+            # print(labels)
+            # torch.Size([4, 3, 512, 512])
+            # [array([[280., 187., 379., 267.]]), array([[101., 229., 215., 325.],
+            #        [269., 147., 398., 311.]]), array([[181.,   0., 475., 229.]]), array([[ 42., 198., 329., 387.]])]
+            # [array([4.]), array([0., 4.]), array([3.]), array([6.])]
+            
             rpn_loc, rpn_cls, roi_loc, roi_cls, total = train_util.train_step(images, boxes, labels, 1, fp16, scaler)
             total_loss      += total.item()
             rpn_loc_loss    += rpn_loc.item()
