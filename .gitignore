@@ -1,5 +1,5 @@
 .idea/
-.pth
+*.pth
 
 # ignore map, miou, datasets
 map_out/

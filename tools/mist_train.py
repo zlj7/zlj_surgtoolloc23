@@ -69,6 +69,8 @@ def mist_train(model, train_dataloader, epoches):
         roi_loc_loss = 0
         roi_cls_loss = 0
         for iteration, batch in enumerate(train_dataloader):
+            flag = True
+            torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
             # 使用当前模型对batch中的所有图像进行预测
             images = batch['imgs']
             labels = batch['labels'].to(device)
@@ -103,14 +105,15 @@ def mist_train(model, train_dataloader, epoches):
                 roi_cls_locs, roi_scores, rois,_ = model(image_data) #取出roi预测框和概率
                 # 利用classifier的预测结果对建议框进行解码，获得预测框
                 with torch.no_grad():
-                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.3, confidence = 0.05)
+                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.3, confidence = 0.1)
 
                 if len(results[0]) > 0:
                     # top_label = np.array(results[0][:, 5], dtype='int32') #[0, 3]的类型，代表预测框的编号
                     top_label = results[0][:, 5]
                     top_conf = results[0][:, 4] #[0.97, 0.82] 代表概率
-                    top_boxes = results[0][:, :4] #[[ 97.34409 580.41815 291.9259  768.72534],[395.0774  124.90984 432.55334 271.59985]], 预测框调整参数
+                    top_boxes = results[0][:, :4] #top, left, bottom, right
                 else:
+                    flag = False
                     print("No predicted box")
                     top_label = []
                     top_conf = []
@@ -126,8 +129,12 @@ def mist_train(model, train_dataloader, epoches):
                         #pseudo_label.append(np.array(top_label[i]))
                 pseude_boxes.append(np.array(pseude_box))
                 pseudo_labels.append(pseudo_label)
+                if len(pseudo_label) == 0:
+                    flag = False
                 print(f"pseudo_labels_num: {len(pseudo_label)}")
 
+            if not flag:
+                continue
             print("pseudo label generated!")
 
             # 使用实例级别标签进行训练
@@ -147,7 +154,7 @@ def mist_train(model, train_dataloader, epoches):
             roi_loc_loss += roi_loc.item()
             roi_cls_loss += roi_cls.item()
 
-            print(f"epoch: {epoch / (iteration + 1)}    iteration: {iteration}    loss: {total_loss / (iteration + 1)}")
+            print(f"epoch: {epoch}    iteration: {iteration}    loss: {total_loss / (iteration + 1)}")
 
         torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
         predict()

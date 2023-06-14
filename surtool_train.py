@@ -25,7 +25,7 @@ if __name__ == "__main__":
     backbone = "resnet50"
     pretrained = True
     anchors_size = [8, 16, 32]
-    batch_size = 4
+    batch_size = 1
     epoches = 100
 
     # ----------------------------------------------------#
