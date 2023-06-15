@@ -63,8 +63,6 @@ def mist_train(model, train_dataloader, epoches):
 
     train_util = FasterRCNNTrainer(model, optimizer).to(device)
     for epoch in range(epoches):
-        torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
-        print("model saved!")
         total_loss = 0
         rpn_loc_loss = 0
         rpn_cls_loss = 0
@@ -107,7 +105,7 @@ def mist_train(model, train_dataloader, epoches):
                 roi_cls_locs, roi_scores, rois,_ = model(image_data) #取出roi预测框和概率
                 # 利用classifier的预测结果对建议框进行解码，获得预测框
                 with torch.no_grad():
-                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.3, confidence = 0.1)
+                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.3, confidence = 0.01)
 
                 if len(results[0]) > 0:
                     # top_label = np.array(results[0][:, 5], dtype='int32') #[0, 3]的类型，代表预测框的编号
@@ -134,11 +132,11 @@ def mist_train(model, train_dataloader, epoches):
                         pseudo_conf = np.append(pseudo_conf, top_conf[i])
                         
                 # 取出概率最高的3个
-                #sorted_indices = np.argsort(pseudo_conf)[::-1] # 按概率排序
-                #sorted_indices = sorted_indices[:3] # 取概率最高的3个，不满3个取全部
+                sorted_indices = np.argsort(pseudo_conf)[::-1] # 按概率排序
+                sorted_indices = sorted_indices[:3] # 取概率最高的3个，不满3个取全部
                 
-                #pseude_box = pseude_box[sorted_indices]
-                #pseudo_label = pseudo_label[sorted_indices]
+                pseude_box = pseude_box[sorted_indices]
+                pseudo_label = pseudo_label[sorted_indices]
                         
                 pseude_boxes.append(np.array(pseude_box))
                 pseudo_labels.append(pseudo_label)
