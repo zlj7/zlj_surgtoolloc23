@@ -73,12 +73,12 @@ def mist_train(model, train_dataloader, epoches):
             # 使用当前模型对batch中的所有图像进行预测
             images = batch['imgs']
             labels = batch['labels'].to(device)
-            pseude_boxes = [] #生成的假box
+            pseudo_boxes = [] #生成的假box
             pseudo_labels = [] #生成的假标签
 
             # 对batch中的每副图像预测box
             for image in images:
-                pseude_box = [] #生成的假box
+                pseudo_box = [] #生成的假box
                 pseudo_label = [] #生成的假标签
                 pseudo_conf = [] #对应的概率
                 # ---------------------------------------------------#
@@ -127,7 +127,7 @@ def mist_train(model, train_dataloader, epoches):
                 # 取出在label中标注的类
                 for i in range(len(top_label)):
                     if top_label[i] in labels:
-                        pseude_box.append(top_boxes[i])
+                        pseudo_box.append(top_boxes[i])
                         pseudo_label = np.append(pseudo_label, top_label[i])
                         pseudo_conf = np.append(pseudo_conf, top_conf[i])
                         
@@ -135,14 +135,17 @@ def mist_train(model, train_dataloader, epoches):
                 sorted_indices = np.argsort(pseudo_conf)[::-1] # 按概率排序
                 sorted_indices = sorted_indices[:3] # 取概率最高的3个，不满3个取全部
                 
-                pseude_box = pseude_box[sorted_indices]
-                pseudo_label = pseudo_label[sorted_indices]
+                pseudo_box_ = []
+                pseudo_label_ = []
+                for i in sorted_indices:
+                    pseudo_box_.append(pseudo_box[i])
+                    pseudo_label_ = np.append(pseudo_label_, pseudo_label[i])
                         
-                pseude_boxes.append(np.array(pseude_box))
-                pseudo_labels.append(pseudo_label)
+                pseudo_boxes.append(np.array(pseudo_box_))
+                pseudo_labels.append(pseudo_label_)
                 if len(pseudo_label) == 0:
                     flag = False
-                print(f"pseudo_labels_num: {len(pseudo_label)}")
+                print(f"pseudo_labels_num: {len(pseudo_label_)}")
 
             if not flag:
                 continue
@@ -150,7 +153,7 @@ def mist_train(model, train_dataloader, epoches):
 
             # 使用实例级别标签进行训练
             # for i in range(len(pseudo_label)):
-            # for image, boxes, labels in images, pseude_box, pseudo_label:
+            # for image, boxes, labels in images, pseudo_box, pseudo_label:
             if len(pseudo_labels) == 0:
                 continue
             
@@ -158,7 +161,7 @@ def mist_train(model, train_dataloader, epoches):
                 if Cuda:
                     images = images.half().cuda()
             
-            rpn_loc, rpn_cls, roi_loc, roi_cls, total = train_util.train_step(images, pseude_boxes, pseudo_labels, 1, fp16=True, scaler=scaler)
+            rpn_loc, rpn_cls, roi_loc, roi_cls, total = train_util.train_step(images, pseudo_boxes, pseudo_labels, 1, fp16=True, scaler=scaler)
             total_loss += total.item()
             rpn_loc_loss += rpn_loc.item()
             rpn_cls_loss += rpn_cls.item()
