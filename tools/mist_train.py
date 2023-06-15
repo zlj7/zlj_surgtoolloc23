@@ -63,6 +63,8 @@ def mist_train(model, train_dataloader, epoches):
 
     train_util = FasterRCNNTrainer(model, optimizer).to(device)
     for epoch in range(epoches):
+        torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
+        print("model saved!")
         total_loss = 0
         rpn_loc_loss = 0
         rpn_cls_loss = 0
@@ -70,7 +72,6 @@ def mist_train(model, train_dataloader, epoches):
         roi_cls_loss = 0
         for iteration, batch in enumerate(train_dataloader):
             flag = True
-            torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
             # 使用当前模型对batch中的所有图像进行预测
             images = batch['imgs']
             labels = batch['labels'].to(device)
@@ -81,6 +82,7 @@ def mist_train(model, train_dataloader, epoches):
             for image in images:
                 pseude_box = [] #生成的假box
                 pseudo_label = [] #生成的假标签
+                pseudo_conf = [] #对应的概率
                 # ---------------------------------------------------#
                 #   计算输入图片的高和宽
                 # ---------------------------------------------------#
@@ -112,6 +114,10 @@ def mist_train(model, train_dataloader, epoches):
                     top_label = results[0][:, 5]
                     top_conf = results[0][:, 4] #[0.97, 0.82] 代表概率
                     top_boxes = results[0][:, :4] #top, left, bottom, right
+                    # 改成left, top, right, bottom
+                    # left, top, right, bottom = top_boxes[:, [1, 0, 3, 2]].T
+                    # top_boxes = np.array([left, top, bottom, right]).T
+                    
                 else:
                     flag = False
                     print("No predicted box")
@@ -124,9 +130,16 @@ def mist_train(model, train_dataloader, epoches):
                 for i in range(len(top_label)):
                     if top_label[i] in labels:
                         pseude_box.append(top_boxes[i])
-                        # pseude_box = np.append(pseude_box, top_boxes[i])
                         pseudo_label = np.append(pseudo_label, top_label[i])
-                        #pseudo_label.append(np.array(top_label[i]))
+                        pseudo_conf = np.append(pseudo_conf, top_conf[i])
+                        
+                # 取出概率最高的3个
+                #sorted_indices = np.argsort(pseudo_conf)[::-1] # 按概率排序
+                #sorted_indices = sorted_indices[:3] # 取概率最高的3个，不满3个取全部
+                
+                #pseude_box = pseude_box[sorted_indices]
+                #pseudo_label = pseudo_label[sorted_indices]
+                        
                 pseude_boxes.append(np.array(pseude_box))
                 pseudo_labels.append(pseudo_label)
                 if len(pseudo_label) == 0:
@@ -157,4 +170,7 @@ def mist_train(model, train_dataloader, epoches):
             print(f"epoch: {epoch}    iteration: {iteration}    loss: {total_loss / (iteration + 1)}")
 
         torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
+        print("model saved!")
         predict()
+
+ 

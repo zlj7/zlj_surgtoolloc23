@@ -39,7 +39,7 @@ class FRCNN(object):
         #---------------------------------------------------------------------#
         #   只有得分大于置信度的预测框会被保留下来
         #---------------------------------------------------------------------#
-        "confidence"    : 0.01,
+        "confidence"    : 0.1,
         #---------------------------------------------------------------------#
         #   非极大抑制所用到的nms_iou大小
         #---------------------------------------------------------------------#
@@ -196,6 +196,7 @@ class FRCNN(object):
         #---------------------------------------------------------#
         #   图像绘制
         #---------------------------------------------------------#
+        # print("num_label:" + str(len(top_label)))
         for i, c in list(enumerate(top_label)):
             predicted_class = self.class_names[int(c)]
             box             = top_boxes[i]
@@ -219,11 +220,10 @@ class FRCNN(object):
             else:
                 text_origin = np.array([left, top + 1])
 
-            if(score > 0.5):
-                for i in range(thickness):
-                    draw.rectangle([left + i, top + i, right - i, bottom - i], outline=self.colors[c])
-                draw.rectangle([tuple(text_origin), tuple(text_origin + label_size)], fill=self.colors[c])
-                draw.text(text_origin, str(label,'UTF-8'), fill=(0, 0, 0), font=font)
+            for i in range(thickness):
+                draw.rectangle([left + i, top + i, right - i, bottom - i], outline=self.colors[c])
+            draw.rectangle([tuple(text_origin), tuple(text_origin + label_size)], fill=self.colors[c])
+            draw.text(text_origin, str(label,'UTF-8'), fill=(0, 0, 0), font=font)
             del draw
 
         return image
