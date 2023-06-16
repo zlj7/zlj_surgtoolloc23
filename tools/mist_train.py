@@ -124,9 +124,16 @@ def mist_train(model, train_dataloader, epoches):
                     top_conf_ = top_conf[np.logical_and(top_boxes[:,0]>130, top_boxes[:,2]<1050)]
                     top_label_ = top_label[np.logical_and(top_boxes[:,0]>130, top_boxes[:,2]<1050)]
                     # 过滤掉上下的黑边
-                    top_boxes = top_boxes_[np.logical_and(top_boxes_[:,1]>50, top_boxes_[:,3]<680)]
-                    top_conf = top_conf_[np.logical_and(top_boxes_[:,1]>50, top_boxes_[:,3]<680)]
-                    top_label = top_label_[np.logical_and(top_boxes_[:,1]>50, top_boxes_[:,3]<680)]
+                    top_boxes_1 = top_boxes_[np.logical_and(top_boxes_[:,1]>50, top_boxes_[:,3]<680)]
+                    top_conf_1 = top_conf_[np.logical_and(top_boxes_[:,1]>50, top_boxes_[:,3]<680)]
+                    top_label_1 = top_label_[np.logical_and(top_boxes_[:,1]>50, top_boxes_[:,3]<680)]
+                    
+                    # 过滤掉太小的box
+                    box_w = top_boxes_1[:, 2] - top_boxes_1[:, 0]
+                    box_h = top_boxes_1[:, 3] - top_boxes_1[:, 1]
+                    top_boxes = top_boxes_1[np.logical_and(box_w>100, box_h>100)]
+                    top_conf = top_conf_1[np.logical_and(box_w>100, box_h>100)]
+                    top_label = top_label_1[np.logical_and(box_w>100, box_h>100)]
                     
                 else:
                     flag = False
@@ -202,7 +209,6 @@ def mist_train(model, train_dataloader, epoches):
             roi_cls_loss += roi_cls.item()
 
             if iteration % 1000 == 0:
-                print(f"pseudo_labels_num: {len(pseudo_labels)}")
                 print(pseudo_boxes)
                 print(pseudo_labels)
                 print(f"epoch: {epoch}    iteration: {iteration}    loss: {total_loss / (iteration + 1)}")
