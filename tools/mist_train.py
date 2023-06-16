@@ -52,6 +52,9 @@ def mist_train(model, train_dataloader, epoches):
     # 冻结主干网络
     for param in model.extractor.parameters():
         param.requires_grad = False
+    # 冻结rpn层
+    for param in model.rpn.parameters():
+        param.requires_grad = False
     # 冻结bn层
     model.freeze_bn()
 
@@ -63,6 +66,7 @@ def mist_train(model, train_dataloader, epoches):
 
     train_util = FasterRCNNTrainer(model, optimizer).to(device)
     for epoch in range(epoches):
+        print(f"############################ epoch: {epoch} ############################")
         total_loss = 0
         rpn_loc_loss = 0
         rpn_cls_loss = 0
@@ -102,7 +106,11 @@ def mist_train(model, train_dataloader, epoches):
                 if Cuda:
                     image_data = image_data.cuda()
 
-                roi_cls_locs, roi_scores, rois,_ = model(image_data) #取出roi预测框和概率
+                try:
+                    roi_cls_locs, roi_scores, rois, _ = model(image_data)  # 取出roi预测框和概率
+                except ValueError:
+                    flag = False
+                    print("predict error!")
                 # 利用classifier的预测结果对建议框进行解码，获得预测框
                 with torch.no_grad():
                     results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.3, confidence = 0.01)
@@ -112,17 +120,17 @@ def mist_train(model, train_dataloader, epoches):
                     top_label = results[0][:, 5]
                     top_conf = results[0][:, 4] #[0.97, 0.82] 代表概率
                     top_boxes = results[0][:, :4] #top, left, bottom, right
+                    
                     # 改成left, top, right, bottom
-                    # left, top, right, bottom = top_boxes[:, [1, 0, 3, 2]].T
-                    # top_boxes = np.array([left, top, bottom, right]).T
+                    left, top, right, bottom = top_boxes[:, [1, 0, 3, 2]].T
+                    top_boxes = np.array([left, top, right, bottom]).T
                     
                 else:
                     flag = False
-                    print("No predicted box")
                     top_label = []
                     top_conf = []
                     top_boxes = []
-                    continue
+                    #continue
                 
                 # 取出在label中标注的类
                 for i in range(len(top_label)):
@@ -141,26 +149,27 @@ def mist_train(model, train_dataloader, epoches):
                     pseudo_box_.append(pseudo_box[i])
                     pseudo_label_ = np.append(pseudo_label_, pseudo_label[i])
                         
+                if len(pseudo_box_) > 0:
+                    print(pseudo_box_)
                 pseudo_boxes.append(np.array(pseudo_box_))
                 pseudo_labels.append(pseudo_label_)
                 if len(pseudo_label) == 0:
                     flag = False
-                print(f"pseudo_labels_num: {len(pseudo_label_)}")
+                #print(f"iteration: {iteration}    pseudo_labels_num: {len(pseudo_label_)}")
 
             if not flag:
                 continue
             print("pseudo label generated!")
 
             # 使用实例级别标签进行训练
-            # for i in range(len(pseudo_label)):
-            # for image, boxes, labels in images, pseudo_box, pseudo_label:
             if len(pseudo_labels) == 0:
                 continue
             
             with torch.no_grad():
                 if Cuda:
                     images = images.half().cuda()
-            
+                    
+            print(f"iteration: {iteration}    pseudo_labels_num: {len(pseudo_label_)}")
             rpn_loc, rpn_cls, roi_loc, roi_cls, total = train_util.train_step(images, pseudo_boxes, pseudo_labels, 1, fp16=True, scaler=scaler)
             total_loss += total.item()
             rpn_loc_loss += rpn_loc.item()
@@ -168,7 +177,7 @@ def mist_train(model, train_dataloader, epoches):
             roi_loc_loss += roi_loc.item()
             roi_cls_loss += roi_cls.item()
 
-            print(f"epoch: {epoch}    iteration: {iteration}    loss: {total_loss / (iteration + 1)}")
+            print(f"epoch: {epoch}    iteration: {iteration}    loss: {total_loss / (iteration + 1)}    rpn_loc_loss: {rpn_loc_loss / (iteration + 1)}    rpn_cls_loss: {rpn_cls_loss / (iteration + 1)}    roi_loc_loss: {roi_loc_loss / (iteration + 1)}    roi_cls_loss: {roi_cls_loss / (iteration + 1)}")
 
         torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
         print("model saved!")

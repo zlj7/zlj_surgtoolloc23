@@ -21,7 +21,6 @@ if __name__ == "__main__":
     train_gpu = [0, ]
     classes_path = 'surtool_model/classes.txt'
     model_path = 'logs/weights_7classes.pth'
-    input_shape = [512,512]
     backbone = "resnet50"
     pretrained = True
     anchors_size = [8, 16, 32]
