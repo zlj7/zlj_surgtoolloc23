@@ -82,9 +82,6 @@ def mist_train(model, train_dataloader, epoches):
                 pseudo_box = [] #生成的假box
                 pseudo_label = [] #生成的假标签
                 pseudo_conf = [] #对应的概率
-                top_label = []
-                top_conf = []
-                top_boxes = []
                 # ---------------------------------------------------#
                 #   计算输入图片的高和宽
                 # ---------------------------------------------------#
@@ -110,7 +107,7 @@ def mist_train(model, train_dataloader, epoches):
                 
                 # 利用classifier的预测结果对建议框进行解码，获得预测框
                 with torch.no_grad():
-                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.3, confidence = 0.01)
+                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.5, confidence = 0.01)
 
                 if len(results[0]) > 0:
                     # top_label = np.array(results[0][:, 5], dtype='int32') #[0, 3]的类型，代表预测框的编号
@@ -146,17 +143,42 @@ def mist_train(model, train_dataloader, epoches):
                         pseudo_conf = np.append(pseudo_conf, top_conf[i])
                         
                 # 取出概率最高的3个
-                sorted_indices = np.argsort(pseudo_conf)[::-1] # 按概率排序
-                sorted_indices = sorted_indices[:3] # 取概率最高的3个，不满3个取全部
+                #sorted_indices = np.argsort(pseudo_conf)[::-1] # 按概率排序
+                #sorted_indices = sorted_indices[:3] # 取概率最高的3个，不满3个取全部
                 
                 pseudo_box_ = []
                 pseudo_label_ = []
-                for i in sorted_indices:
-                    pseudo_box_.append(pseudo_box[i])
-                    pseudo_label_ = np.append(pseudo_label_, pseudo_label[i])
+                # 取出label中每类概率最高的2个
+                unique_labels = np.unique(pseudo_label)
+                
+                for label in unique_labels:
+                    label_indices = np.where(pseudo_label == label)[0]
+                    if len(label_indices) > 0:
+                        label_boxes = []
+                        label_conf = []
+                        for i in label_indices:
+                            label_boxes.append(pseudo_box[i])
+                            label_conf.append(pseudo_conf[i])
+                        
+                        sorted_indices = np.argsort(label_conf)[::-1]
+                        sorted_indices = sorted_indices[:2] if len(sorted_indices) >= 2 else sorted_indices
+                        for i in sorted_indices:
+                            pseudo_box_.append(label_boxes[i])
+                            pseudo_label_ = np.append(pseudo_label_, label)
+                        #pseudo_box_.extend(label_boxes[sorted_indices])
+                        #pseudo_label_.extend([label] * len(sorted_indices))
+                        #pseudo_conf_.extend(label_conf[sorted_indices])
                         
                 pseudo_boxes.append(np.array(pseudo_box_))
                 pseudo_labels.append(pseudo_label_)
+                
+                
+                #for i in sorted_indices:
+                 #   pseudo_box_.append(pseudo_box[i])
+                  #  pseudo_label_ = np.append(pseudo_label_, pseudo_label[i])
+                        
+                #pseudo_boxes.append(np.array(pseudo_box_))
+                #pseudo_labels.append(pseudo_label_)
                 if len(pseudo_label) == 0:
                     flag = False
                 #print(f"iteration: {iteration}    pseudo_labels_num: {len(pseudo_label_)}")
@@ -180,9 +202,9 @@ def mist_train(model, train_dataloader, epoches):
             roi_cls_loss += roi_cls.item()
 
             if iteration % 1000 == 0:
-                print(f"pseudo_labels_num: {len(pseudo_label_)}")
-                print(pseudo_box_)
-                print(pseudo_label_)
+                print(f"pseudo_labels_num: {len(pseudo_labels)}")
+                print(pseudo_boxes)
+                print(pseudo_labels)
                 print(f"epoch: {epoch}    iteration: {iteration}    loss: {total_loss / (iteration + 1)}")
 
         torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
