@@ -1,5 +1,9 @@
 .idea/
 *.pth
+.nfs*
+wandb/
+test
+test_out
 
 # ignore map, miou, datasets
 map_out/

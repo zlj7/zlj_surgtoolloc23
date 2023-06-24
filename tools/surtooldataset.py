@@ -33,7 +33,7 @@ class SurtoolDataset(Dataset):
         # 读取图像
         img = cv2.imread(self.image_paths[idx])
         # print(img)
-        # img = cv2.resize(img, (512, 512))
+        #img = cv2.resize(img, (512, 512))
         img = img / 255.0
         img = img.transpose(2, 0, 1)
 

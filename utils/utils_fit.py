@@ -82,3 +82,4 @@ def fit_one_epoch(model, train_util, loss_history, eval_callback, optimizer, epo
     #     torch.save(model.state_dict(), os.path.join(save_dir, "best_epoch_weights.pth"))
             
     torch.save(model.state_dict(), os.path.join(save_dir, "last_epoch_weights.pth"))
+    return total_loss / (iteration + 1)

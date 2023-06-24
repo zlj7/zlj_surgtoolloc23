@@ -20,6 +20,10 @@ from utils.dataloader import FRCNNDataset, frcnn_dataset_collate
 from utils.utils import get_classes, show_config
 from utils.utils_fit import fit_one_epoch
 
+import wandb
+import matplotlib.pyplot as plt
+
+
 '''
 训练自己的目标检测模型一定需要注意以下几点：
 1、训练前仔细检查自己的格式是否满足要求，该库要求数据集格式为VOC格式，需要准备好的内容有输入图片和标签
@@ -57,7 +61,7 @@ if __name__ == "__main__":
     #   classes_path    指向model_data下的txt，与自己训练的数据集相关 
     #                   训练前一定要修改classes_path，使其对应自己的数据集
     #---------------------------------------------------------------------#
-    classes_path    = 'model_data/voc_classes.txt'
+    classes_path    = 'surtool_model/classes.txt'
     #----------------------------------------------------------------------------------------------------------------------------#
     #   权值文件的下载请看README，可以通过网盘下载。模型的 预训练权重 对不同数据集是通用的，因为特征是通用的。
     #   模型的 预训练权重 比较重要的部分是 主干特征提取网络的权值部分，用于进行特征提取。
@@ -83,7 +87,7 @@ if __name__ == "__main__":
         #------------------------------------------------------#
     #   input_shape     输入的shape大小
     #------------------------------------------------------#
-    input_shape     = [512, 512]
+    input_shape     = [720, 1280]#[512, 512]
     #---------------------------------------------#
     #   vgg
     #   resnet50
@@ -149,8 +153,8 @@ if __name__ == "__main__":
     #                       (当Freeze_Train=False时失效)
     #------------------------------------------------------------------#
     Init_Epoch          = 0
-    Freeze_Epoch        = 50
-    Freeze_batch_size   = 4
+    Freeze_Epoch        = 200
+    Freeze_batch_size   = 8
     #------------------------------------------------------------------#
     #   解冻阶段训练参数
     #   此时模型的主干不被冻结了，特征提取网络会发生改变
@@ -160,8 +164,8 @@ if __name__ == "__main__":
     #                           Adam可以使用相对较小的UnFreeze_Epoch
     #   Unfreeze_batch_size     模型在解冻后的batch_size
     #------------------------------------------------------------------#
-    UnFreeze_Epoch      = 100
-    Unfreeze_batch_size = 2
+    UnFreeze_Epoch      = 400
+    Unfreeze_batch_size = 4
     #------------------------------------------------------------------#
     #   Freeze_Train    是否进行冻结训练
     #                   默认先冻结主干训练后解冻训练。
@@ -396,6 +400,16 @@ if __name__ == "__main__":
         #----------------------#
         eval_callback   = EvalCallback(model_train, input_shape, class_names, num_classes, val_lines, log_dir, Cuda, \
                                         eval_flag=eval_flag, period=eval_period)
+                                        
+        #---------------------------------------#
+        #   wandb可视化
+        #---------------------------------------#
+        wandb.init(project="surtool23_pretrain")
+        wandb.config.batch_size = Freeze_batch_size
+        wandb.config.lr = 0.0001
+        wandb.watch(model, log="all")
+        
+        loss_record = []
 
         #---------------------------------------#
         #   开始模型训练
@@ -443,12 +457,32 @@ if __name__ == "__main__":
                 
             set_optimizer_lr(optimizer, lr_scheduler_func, epoch)
 
-            fit_one_epoch(model, train_util, loss_history, eval_callback, optimizer, epoch, epoch_step, epoch_step_val, gen, gen_val, UnFreeze_Epoch, Cuda, fp16, scaler, save_period, save_dir)
+            loss = fit_one_epoch(model, train_util, loss_history, eval_callback, optimizer, epoch, epoch_step, epoch_step_val, gen, gen_val, UnFreeze_Epoch, Cuda, fp16, scaler, save_period, save_dir)
+            
+            wandb.log({'loss': loss})
+            wandb.save('model.h5')
+            
+            loss_record.append(loss)
+            
+            # 绘制图像
+            fig = plt.figure()
+            axes = fig.add_subplot(111)
+            axes.plot(np.arange(len(loss_record)), loss_record,label='total_loss')
+            axes.set_xlabel('epochs')
+            axes.set_ylabel('loss')
+            axes.set_title('Loss')
+            axes.legend()
+            f = plt.gcf()  #获取当前图像
+            f.savefig('pretrain_loss.png')
+            f.clear()  #释放内存
+
+            
+            
 
             # 预测图片并保存
             predict()
 
             # 计算map
-            cal_map()
+            #cal_map()
             
         loss_history.writer.close()

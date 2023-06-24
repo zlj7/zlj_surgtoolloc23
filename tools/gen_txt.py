@@ -8,6 +8,7 @@ output_dir = '/data2/zhenglujie/data/SurtoolDataset/'
 # 获取所有图片的路径
 images = os.listdir(image_dir)
 image_paths = [os.path.join(image_dir, img) for img in images]
+print(len(image_paths))
 
 # 随机打乱图片路径列表
 random.shuffle(image_paths)
