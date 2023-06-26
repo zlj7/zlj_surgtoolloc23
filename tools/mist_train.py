@@ -111,7 +111,7 @@ def mist_train(model, train_dataloader, epoches):
                 
                 # 利用classifier的预测结果对建议框进行解码，获得预测框
                 with torch.no_grad():
-                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.5, confidence = 0.9)
+                    results = decodebox.forward(roi_cls_locs, roi_scores, rois, (720, 1280), image_shape, nms_iou = 0.5, confidence = 0.5)
 
                 if len(results[0]) > 0:
                     # top_label = np.array(results[0][:, 5], dtype='int32') #[0, 3]的类型，代表预测框的编号

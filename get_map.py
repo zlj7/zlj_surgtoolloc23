@@ -24,7 +24,7 @@ def cal_map():
     #   map_mode为3代表仅仅计算VOC_map。
     #   map_mode为4代表利用COCO工具箱计算当前数据集的0.50:0.95map。需要获得预测结果、获得真实框后并安装pycocotools才行
     #-------------------------------------------------------------------------------------------------------------------#
-    map_mode        = 0
+    map_mode        = 3
     #--------------------------------------------------------------------------------------#
     #   此处的classes_path用于指定需要测量VOC_map的类别
     #   一般情况下与训练和预测所用的classes_path一致即可
@@ -136,3 +136,5 @@ def cal_map():
         print("Get map.")
         get_coco_map(class_names = class_names, path = map_out_path)
         print("Get map done.")
+        
+cal_map()

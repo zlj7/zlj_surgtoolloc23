@@ -384,6 +384,8 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
     dr_files_list = glob.glob(DR_PATH + '/*.txt')
     dr_files_list.sort()
     for class_index, class_name in enumerate(gt_classes):
+        if not os.path.exists(TEMP_FILES_PATH + "/" + class_name + "_dr.json"):
+            continue
         bounding_boxes = []
         for txt_file in dr_files_list:
             file_id = txt_file.split(".txt",1)[0]
@@ -425,6 +427,8 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
         count_true_positives = {}
 
         for class_index, class_name in enumerate(gt_classes):
+            if not os.path.exists(TEMP_FILES_PATH + "/" + class_name + "_dr.json"):
+                continue
             count_true_positives[class_name] = 0
             dr_file = TEMP_FILES_PATH + "/" + class_name + "_dr.json"
             dr_data = json.load(open(dr_file))
@@ -782,7 +786,7 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
         plot_title = "mAP = {0:.2f}%".format(mAP*100)
         x_label = "Average Precision"
         output_path = RESULTS_FILES_PATH + "/mAP.png"
-        to_show = False
+        to_show = True
         plot_color = 'royalblue'
         draw_plot_func(
             ap_dictionary,

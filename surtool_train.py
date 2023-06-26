@@ -118,7 +118,7 @@ if __name__ == "__main__":
     #初始化dataloader
     print("Constructing dataset……")
     # 创建数据集
-    train_data = SurtoolDataset('../data/SurtoolDataset/test.txt', '../data/SurtoolDataset/labels.csv',
+    train_data = SurtoolDataset('../data/SurtoolDataset/train.txt', '../data/SurtoolDataset/labels.csv',
                                 transform=None)
     #test_data = SurtoolDataset('../data/SurtoolDataset/test.txt', '../data/SurtoolDataset/labels.csv',
     #                           transform=None)
