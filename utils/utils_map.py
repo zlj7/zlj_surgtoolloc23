@@ -183,95 +183,97 @@ def adjust_axes(r, t, fig, axes):
  Draw plot using Matplotlib
 """
 def draw_plot_func(dictionary, n_classes, window_title, plot_title, x_label, output_path, to_show, plot_color, true_p_bar):
+    return
     # sort the dictionary by decreasing value, into a list of tuples
-    sorted_dic_by_value = sorted(dictionary.items(), key=operator.itemgetter(1))
-    # unpacking the list of tuples into two lists
-    sorted_keys, sorted_values = zip(*sorted_dic_by_value)
+    # sorted_dic_by_value = sorted(dictionary.items(), key=operator.itemgetter(1))
+    # # unpacking the list of tuples into two lists
+    # sorted_keys, sorted_values = zip(*sorted_dic_by_value)
+    # # 
+    # if true_p_bar != "":
+    #     """
+    #      Special case to draw in:
+    #         - green -> TP: True Positives (object detected and matches ground-truth)
+    #         - red -> FP: False Positives (object detected but does not match ground-truth)
+    #         - orange -> FN: False Negatives (object not detected but present in the ground-truth)
+    #     """
+    #     fp_sorted = []
+    #     tp_sorted = []
+    #     for key in sorted_keys:
+    #         fp_sorted.append(dictionary[key] - true_p_bar[key])
+    #         tp_sorted.append(true_p_bar[key])
+    #     plt.barh(range(n_classes), fp_sorted, align='center', color='crimson', label='False Positive')
+    #     plt.barh(range(n_classes), tp_sorted, align='center', color='forestgreen', label='True Positive', left=fp_sorted)
+    #     # add legend
+    #     plt.legend(loc='lower right')
+    #     """
+    #      Write number on side of bar
+    #     """
+    #     fig = plt.gcf() # gcf - get current figure
+    #     axes = plt.gca()
+    #     r = fig.canvas.get_renderer()
+    #     for i, val in enumerate(sorted_values):
+    #         fp_val = fp_sorted[i]
+    #         tp_val = tp_sorted[i]
+    #         fp_str_val = " " + str(fp_val)
+    #         tp_str_val = fp_str_val + " " + str(tp_val)
+    #         # trick to paint multicolor with offset:
+    #         # first paint everything and then repaint the first number
+    #         t = plt.text(val, i, tp_str_val, color='forestgreen', va='center', fontweight='bold')
+    #         plt.text(val, i, fp_str_val, color='crimson', va='center', fontweight='bold')
+    #         if i == (len(sorted_values)-1): # largest bar
+    #             adjust_axes(r, t, fig, axes)
+    # else:
+    #     plt.barh(range(n_classes), sorted_values, color=plot_color)
+    #     """
+    #      Write number on side of bar
+    #     """
+    #     fig = plt.gcf() # gcf - get current figure
+    #     axes = plt.gca()
+    #     r = fig.canvas.get_renderer()
+    #     for i, val in enumerate(sorted_values):
+    #         str_val = " " + str(val) # add a space before
+    #         if val < 1.0:
+    #             str_val = " {0:.2f}".format(val)
+    #         t = plt.text(val, i, str_val, color=plot_color, va='center', fontweight='bold')
+    #         # re-set axes to show number inside the figure
+    #         if i == (len(sorted_values)-1): # largest bar
+    #             adjust_axes(r, t, fig, axes)
+    # # set window title
+    # fig.canvas.set_window_title(window_title)
+    # # write classes in y axis
+    # tick_font_size = 12
+    # plt.yticks(range(n_classes), sorted_keys, fontsize=tick_font_size)
+    # """
+    #  Re-scale height accordingly
+    # """
+    # init_height = fig.get_figheight()
+    # # comput the matrix height in points and inches
+    # dpi = fig.dpi
+    # height_pt = n_classes * (tick_font_size * 1.4) # 1.4 (some spacing)
+    # height_in = height_pt / dpi
+    # # compute the required figure height 
+    # top_margin = 0.15 # in percentage of the figure height
+    # bottom_margin = 0.05 # in percentage of the figure height
+    # figure_height = height_in / (1 - top_margin - bottom_margin)
+    # # set new height
+    # if figure_height > init_height:
+    #     fig.set_figheight(figure_height)
     # 
-    if true_p_bar != "":
-        """
-         Special case to draw in:
-            - green -> TP: True Positives (object detected and matches ground-truth)
-            - red -> FP: False Positives (object detected but does not match ground-truth)
-            - orange -> FN: False Negatives (object not detected but present in the ground-truth)
-        """
-        fp_sorted = []
-        tp_sorted = []
-        for key in sorted_keys:
-            fp_sorted.append(dictionary[key] - true_p_bar[key])
-            tp_sorted.append(true_p_bar[key])
-        plt.barh(range(n_classes), fp_sorted, align='center', color='crimson', label='False Positive')
-        plt.barh(range(n_classes), tp_sorted, align='center', color='forestgreen', label='True Positive', left=fp_sorted)
-        # add legend
-        plt.legend(loc='lower right')
-        """
-         Write number on side of bar
-        """
-        fig = plt.gcf() # gcf - get current figure
-        axes = plt.gca()
-        r = fig.canvas.get_renderer()
-        for i, val in enumerate(sorted_values):
-            fp_val = fp_sorted[i]
-            tp_val = tp_sorted[i]
-            fp_str_val = " " + str(fp_val)
-            tp_str_val = fp_str_val + " " + str(tp_val)
-            # trick to paint multicolor with offset:
-            # first paint everything and then repaint the first number
-            t = plt.text(val, i, tp_str_val, color='forestgreen', va='center', fontweight='bold')
-            plt.text(val, i, fp_str_val, color='crimson', va='center', fontweight='bold')
-            if i == (len(sorted_values)-1): # largest bar
-                adjust_axes(r, t, fig, axes)
-    else:
-        plt.barh(range(n_classes), sorted_values, color=plot_color)
-        """
-         Write number on side of bar
-        """
-        fig = plt.gcf() # gcf - get current figure
-        axes = plt.gca()
-        r = fig.canvas.get_renderer()
-        for i, val in enumerate(sorted_values):
-            str_val = " " + str(val) # add a space before
-            if val < 1.0:
-                str_val = " {0:.2f}".format(val)
-            t = plt.text(val, i, str_val, color=plot_color, va='center', fontweight='bold')
-            # re-set axes to show number inside the figure
-            if i == (len(sorted_values)-1): # largest bar
-                adjust_axes(r, t, fig, axes)
-    # set window title
-    fig.canvas.set_window_title(window_title)
-    # write classes in y axis
-    tick_font_size = 12
-    plt.yticks(range(n_classes), sorted_keys, fontsize=tick_font_size)
-    """
-     Re-scale height accordingly
-    """
-    init_height = fig.get_figheight()
-    # comput the matrix height in points and inches
-    dpi = fig.dpi
-    height_pt = n_classes * (tick_font_size * 1.4) # 1.4 (some spacing)
-    height_in = height_pt / dpi
-    # compute the required figure height 
-    top_margin = 0.15 # in percentage of the figure height
-    bottom_margin = 0.05 # in percentage of the figure height
-    figure_height = height_in / (1 - top_margin - bottom_margin)
-    # set new height
-    if figure_height > init_height:
-        fig.set_figheight(figure_height)
-
-    # set plot title
-    plt.title(plot_title, fontsize=14)
-    # set axis titles
-    # plt.xlabel('classes')
-    plt.xlabel(x_label, fontsize='large')
-    # adjust size of window
-    fig.tight_layout()
-    # save the plot
-    fig.savefig(output_path)
-    # show image
-    if to_show:
-        plt.show()
-    # close the plot
-    plt.close()
+    # # set plot title
+    # plt.title(plot_title, fontsize=14)
+    # # set axis titles
+    # # plt.xlabel('classes')
+    # plt.xlabel(x_label, fontsize='large')
+    # # adjust size of window
+    # fig.tight_layout()
+    # # save the plot
+    # fig.savefig(output_path)
+    # # show image
+    # if to_show:
+    #     plt.show()
+    # # close the plot
+    # plt.close()
+    
 
 def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
     GT_PATH             = os.path.join(path, 'ground-truth')
@@ -384,8 +386,6 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
     dr_files_list = glob.glob(DR_PATH + '/*.txt')
     dr_files_list.sort()
     for class_index, class_name in enumerate(gt_classes):
-        if not os.path.exists(TEMP_FILES_PATH + "/" + class_name + "_dr.json"):
-            continue
         bounding_boxes = []
         for txt_file in dr_files_list:
             file_id = txt_file.split(".txt",1)[0]
@@ -415,9 +415,13 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
                     bbox = left + " " + top + " " + right + " " +bottom
                     bounding_boxes.append({"confidence":confidence, "file_id":file_id, "bbox":bbox})
 
+        
         bounding_boxes.sort(key=lambda x:float(x['confidence']), reverse=True)
-        with open(TEMP_FILES_PATH + "/" + class_name + "_dr.json", 'w') as outfile:
-            json.dump(bounding_boxes, outfile)
+        try:
+            with open(TEMP_FILES_PATH + "/" + class_name + "_dr.json", 'w') as outfile:
+                json.dump(bounding_boxes, outfile)
+        except:
+            pass
 
     sum_AP = 0.0
     ap_dictionary = {}
@@ -427,11 +431,12 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
         count_true_positives = {}
 
         for class_index, class_name in enumerate(gt_classes):
-            if not os.path.exists(TEMP_FILES_PATH + "/" + class_name + "_dr.json"):
-                continue
             count_true_positives[class_name] = 0
             dr_file = TEMP_FILES_PATH + "/" + class_name + "_dr.json"
-            dr_data = json.load(open(dr_file))
+            try:
+                dr_data = json.load(open(dr_file))
+            except:
+                pass
 
             nd          = len(dr_data)
             tp          = [0] * nd
@@ -612,44 +617,47 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
                 fig = plt.gcf()
                 fig.canvas.set_window_title('AP ' + class_name)
 
-                plt.title('class: ' + text)
-                plt.xlabel('Recall')
-                plt.ylabel('Precision')
-                axes = plt.gca()
-                axes.set_xlim([0.0,1.0])
-                axes.set_ylim([0.0,1.05]) 
-                fig.savefig(RESULTS_FILES_PATH + "/AP/" + class_name + ".png")
-                plt.cla()
-
-                plt.plot(score, F1, "-", color='orangered')
-                plt.title('class: ' + F1_text + "\nscore_threhold=" + str(score_threhold))
-                plt.xlabel('Score_Threhold')
-                plt.ylabel('F1')
-                axes = plt.gca()
-                axes.set_xlim([0.0,1.0])
-                axes.set_ylim([0.0,1.05])
-                fig.savefig(RESULTS_FILES_PATH + "/F1/" + class_name + ".png")
-                plt.cla()
-
-                plt.plot(score, rec, "-H", color='gold')
-                plt.title('class: ' + Recall_text + "\nscore_threhold=" + str(score_threhold))
-                plt.xlabel('Score_Threhold')
-                plt.ylabel('Recall')
-                axes = plt.gca()
-                axes.set_xlim([0.0,1.0])
-                axes.set_ylim([0.0,1.05])
-                fig.savefig(RESULTS_FILES_PATH + "/Recall/" + class_name + ".png")
-                plt.cla()
-
-                plt.plot(score, prec, "-s", color='palevioletred')
-                plt.title('class: ' + Precision_text + "\nscore_threhold=" + str(score_threhold))
-                plt.xlabel('Score_Threhold')
-                plt.ylabel('Precision')
-                axes = plt.gca()
-                axes.set_xlim([0.0,1.0])
-                axes.set_ylim([0.0,1.05])
-                fig.savefig(RESULTS_FILES_PATH + "/Precision/" + class_name + ".png")
-                plt.cla()
+                try:
+                    plt.title('class: ' + text)
+                    plt.xlabel('Recall')
+                    plt.ylabel('Precision')
+                    axes = plt.gca()
+                    axes.set_xlim([0.0,1.0])
+                    axes.set_ylim([0.0,1.05]) 
+                    fig.savefig(RESULTS_FILES_PATH + "/AP/" + class_name + ".png")
+                    plt.cla()
+    
+                    plt.plot(score, F1, "-", color='orangered')
+                    plt.title('class: ' + F1_text + "\nscore_threhold=" + str(score_threhold))
+                    plt.xlabel('Score_Threhold')
+                    plt.ylabel('F1')
+                    axes = plt.gca()
+                    axes.set_xlim([0.0,1.0])
+                    axes.set_ylim([0.0,1.05])
+                    fig.savefig(RESULTS_FILES_PATH + "/F1/" + class_name + ".png")
+                    plt.cla()
+    
+                    plt.plot(score, rec, "-H", color='gold')
+                    plt.title('class: ' + Recall_text + "\nscore_threhold=" + str(score_threhold))
+                    plt.xlabel('Score_Threhold')
+                    plt.ylabel('Recall')
+                    axes = plt.gca()
+                    axes.set_xlim([0.0,1.0])
+                    axes.set_ylim([0.0,1.05])
+                    fig.savefig(RESULTS_FILES_PATH + "/Recall/" + class_name + ".png")
+                    plt.cla()
+    
+                    plt.plot(score, prec, "-s", color='palevioletred')
+                    plt.title('class: ' + Precision_text + "\nscore_threhold=" + str(score_threhold))
+                    plt.xlabel('Score_Threhold')
+                    plt.ylabel('Precision')
+                    axes = plt.gca()
+                    axes.set_xlim([0.0,1.0])
+                    axes.set_ylim([0.0,1.05])
+                    fig.savefig(RESULTS_FILES_PATH + "/Precision/" + class_name + ".png")
+                    plt.cla()
+                except:
+                    pass
                 
         if show_animation:
             cv2.destroyAllWindows()
@@ -759,6 +767,7 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
     """
     Draw log-average miss rate plot (Show lamr of all classes in decreasing order)
     """
+    
     if draw_plot:
         window_title = "lamr"
         plot_title = "log-average miss rate"

@@ -87,7 +87,7 @@ if __name__ == "__main__":
         #------------------------------------------------------#
     #   input_shape     输入的shape大小
     #------------------------------------------------------#
-    input_shape     = [512, 512]#[512, 512]
+    input_shape     = [720, 1280]#[512, 512]
     #---------------------------------------------#
     #   vgg
     #   resnet50
@@ -410,6 +410,7 @@ if __name__ == "__main__":
         wandb.watch(model, log="all")
         
         loss_record = []
+        mAP_record = []
 
         #---------------------------------------#
         #   开始模型训练
@@ -459,8 +460,6 @@ if __name__ == "__main__":
 
             loss = fit_one_epoch(model, train_util, loss_history, eval_callback, optimizer, epoch, epoch_step, epoch_step_val, gen, gen_val, UnFreeze_Epoch, Cuda, fp16, scaler, save_period, save_dir)
             
-            wandb.log({'loss': loss})
-            wandb.save('model.h5')
             
             loss_record.append(loss)
             
@@ -483,6 +482,23 @@ if __name__ == "__main__":
             predict()
 
             # 计算map
-            cal_map()
+            mAP = cal_map()
+            mAP_record.append(mAP)
+            
+            fig = plt.figure()
+            axes = fig.add_subplot(111)
+            axes.plot(np.arange(len(mAP_record)), mAP_record,label='mAP')
+            axes.set_xlabel('epochs')
+            axes.set_ylabel('mAP')
+            axes.set_title('mAP')
+            axes.legend()
+            f = plt.gcf()  #获取当前图像
+            f.savefig('mAP.png')
+            f.clear()  #释放内存
+            
+            
+            wandb.log({'epoch': epoch,'loss': loss, 'mAP': mAP})
+            wandb.save('model.h5')
+            
             
         loss_history.writer.close()
